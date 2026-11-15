@@ -14,7 +14,7 @@ Look under the table and along the walls. A chair pushed in is easy to miss. A c
 
 A bench that sits at the table is not a chair. If the bench is leaving and the table is staying, write “bench, separate” and say whether it is one piece. If the bench is staying, write “bench staying”. Do not hide a bench inside the chair count. This page does not become a bench guide.
 
-A stool that was used at the same table is not one of these chairs either. Name it as a stool, or leave it. Do not add it to the chair number to make the set look complete. This page does not cover stools.
+A stool that was used at the same table is not one of these chairs either. Name it as a stool, or leave it. Do not add it to the chair number to make the set look complete. A tall stool that will not stack is the [bar-stool note](/blog/bar-stools-that-will-not-stack-dubai).
 
 Write where the table is, and that it is staying. “Table in the dining room, staying” is enough. Do not describe the top, the leaves or the base as if they were part of the chair job. If you later decide the table is leaving too, stop using this note and follow the dining-table guide for the set. A half-updated message that still says “table staying” is the wrong message.
 
@@ -82,7 +82,7 @@ If a tenancy list or a written note says the chairs stay with the property, leav
 
 A chair from a bedroom, used at a desk, is not this set unless it came from this table. Name it on its own if it is leaving, or leave it. A pair of tables beside a bed is the bedside note, not a short dining set.
 
-A bar stool, a counter stool and a balcony stool are not these chairs. This page does not cover them. If one is leaving, it is its own line, with the word stool, and it is not added to the dining-chair count.
+A bar stool that will not stack is the [bar-stool note](/blog/bar-stools-that-will-not-stack-dubai). A counter stool and a balcony stool of that kind use the same note. They are not added to the dining-chair count.
 
 An office chair on wheels is not a dining chair. Name it as an office chair if it is leaving, or leave it. This page will not become that chair.
 

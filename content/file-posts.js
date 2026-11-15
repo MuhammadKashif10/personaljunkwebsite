@@ -477,6 +477,30 @@ export const fileImages = {
 /** Newest first. */
 export const filePosts = [
   {
+    slug: "bar-stools-that-will-not-stack-dubai",
+    title: "Bar stools that will not stack",
+    excerpt: "Count the bar stools that are leaving, and write that they will not stack.",
+    publishedAt: "2026-11-15T05:00:05.000Z",
+    cover: "old-furniture-disposal-cover",
+    services: ["furniture-removal"],
+    seoTitle: "Count the stools and leave them separate",
+    seoDescription: "Name each bar stool that is leaving, and say the set will not stack.",
+    ogTitle: "The stools, not a stack",
+    ogDescription: "Bar stools that will not stack."
+  },
+  {
+    slug: "sideboard-after-tv-removed-dubai",
+    title: "A sideboard with the TV already gone",
+    excerpt: "Empty the sideboard the television left, and keep the screen off this note.",
+    publishedAt: "2026-11-15T05:00:00.000Z",
+    cover: "tv-disposal-cover",
+    services: ["furniture-removal"],
+    seoTitle: "Name the cabinet the screen left",
+    seoDescription: "Empty the sideboard, and leave the television off this note.",
+    ogTitle: "The cabinet, not the screen",
+    ogDescription: "A sideboard after the television has gone."
+  },
+  {
     slug: "bedside-tables-only-dubai",
     title: "A pair of bedside tables, nothing else",
     excerpt: "Empty both bedside tables, name the pair, and leave the bed and the wardrobe as their own lines.",

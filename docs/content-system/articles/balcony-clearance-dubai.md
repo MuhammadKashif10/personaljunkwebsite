@@ -16,7 +16,7 @@ A balcony clear-out goes faster when each type of material has its own group. Mi
 
 ### Outdoor furniture
 
-Chairs, tables, loungers, benches and storage chests form one group. Their condition helps determine whether reuse is realistic, but do not promise a donation route for sun-damaged or broken pieces. Plastic that has gone brittle, rattan that is unravelling or metal frames with rust at the joints are rarely wanted by another household. Photograph cracked legs, loose glass and exposed fasteners. Bag or tie small detached parts so they do not scatter on the way through the building.
+Chairs, tables, loungers, benches and storage chests form one group. If the only pieces leaving are bar stools that will not stack, the [bar-stool note](/blog/bar-stools-that-will-not-stack-dubai) is that set. A mixed balcony stays on this page. Their condition helps determine whether reuse is realistic, but do not promise a donation route for sun-damaged or broken pieces. Plastic that has gone brittle, rattan that is unravelling or metal frames with rust at the joints are rarely wanted by another household. Photograph cracked legs, loose glass and exposed fasteners. Bag or tie small detached parts so they do not scatter on the way through the building.
 
 Cushions and covers belong with the furniture they came from, but check them separately. Outdoor fabric can hold dust, damp or mould after a season outside. Bag them so they do not shed across the floors inside the apartment. The [garden furniture guide](/blog/garden-furniture-disposal-dubai) covers the keep-or-remove decision for a full outdoor set in more detail, including how to judge whether a piece is worth passing on.
 
