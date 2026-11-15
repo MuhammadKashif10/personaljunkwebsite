@@ -474,6 +474,7 @@ The six original, unbranded editorial images below were generated for #22, #32 a
 
 | Date | Change |
 |---|---|
+| 2026-11-15 | Set the C36 and C37 image rows to `PUBLISHED` repository posts. No generation, download or upload. The same inspected images remain. Production was not verified in this change. |
 | 2026-11-15 | Reused `tv-disposal-cover` for C36 and `old-furniture-disposal-cover` for C37, each as cover and body. No generation, download or upload. The sideboard image is a television still sitting on a console, not a cabinet after the screen has left. The bar-stool image is grouped furniture beside a doorway, including one ordinary chair, not a set of stools that will not stack. Both articles are `REVIEW`, not `PUBLISHED`. |
 | 2026-11-14 | Set the C34 and C35 image rows to `PUBLISHED` repository posts. No generation, download or upload. The same inspected images remain. Production was not verified in this change. |
 | 2026-11-14 | Reused `old-furniture-disposal-cover` for C34 and `mattress-disposal-cover` for C35, each as cover and body. No generation, download or upload. The dining-chair image is grouped furniture beside a doorway, including one ordinary chair, not a set leaving without a table. The bedside image is a mattress beside a bedroom doorway, not a pair of tables. Both articles are `REVIEW`, not `PUBLISHED`. |

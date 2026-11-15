@@ -469,7 +469,7 @@ Read the status before the title. A title on a `DO NOT WRITE` slot names the ref
 
 ### Day 17 — Sunday 2026-11-15
 
-2026-11-15: these two slots stayed unwritten. A bookshelf fails admission, and a chest of drawers fails admission. The goal-keyword calendar’s Day 17 pair (a sideboard with the television already gone, and bar stools that will not stack) is `REVIEW` in the repository record, dated for review on 2026-11-15. It is not `PUBLISHED`. Do not draft the bookshelf or chest-of-drawers slots from this row.
+2026-11-15: these two slots stayed unwritten. A bookshelf fails admission, and a chest of drawers fails admission. The goal-keyword calendar’s Day 17 pair (a sideboard with the television already gone, and bar stools that will not stack) is `PUBLISHED` in the repository record, dated 2026-11-15. Production has not been verified in this change. Do not draft the bookshelf or chest-of-drawers slots from this row.
 
 #### Slot A — `DO NOT WRITE`
 

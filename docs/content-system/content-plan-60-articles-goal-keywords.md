@@ -570,9 +570,9 @@ Both slots below were set to `PUBLISHED` in the repository record on 2026-11-14 
 
 ### Day 17 — Sunday 2026-11-15
 
-Both slots below were written for review on 2026-11-15 and are `REVIEW`, not `PUBLISHED`. They are not a published claim. A later “Merge and live” approval is required before either row becomes `PUBLISHED`. The 30-day plan’s Day 17 pair stayed unwritten: a bookshelf fails admission, and a chest of drawers fails admission. G24, K21, G25, K20, M29 and M30 stayed blocked. G26 and M28 stayed out of scope because they still need sources. The 30-day plan’s water-damaged furniture, piano, pool-table, safe, aquarium, hot-tub, above-ground pool-frame, water-tank, ceiling-fan and commercial-gym slots stayed blocked.
+Both slots below were set to `PUBLISHED` in the repository record on 2026-11-15 after the owner said “Merge and live”. Production has not been verified in this change. The 30-day plan’s Day 17 pair stayed unwritten: a bookshelf fails admission, and a chest of drawers fails admission. G24, K21, G25, K20, M29 and M30 stayed blocked. G26 and M28 stayed out of scope because they still need sources. The 30-day plan’s water-damaged furniture, piano, pool-table, safe, aquarium, hot-tub, above-ground pool-frame, water-tank, ceiling-fan and commercial-gym slots stayed blocked.
 
-#### Slot A — `REVIEW 2026-11-15` — Adequate — C36
+#### Slot A — `PUBLISHED 2026-11-15` — Adequate — C36
 
 - **Primary keyword:** sideboard removal dubai
 - **Title:** A sideboard with the TV already gone
@@ -583,7 +583,7 @@ Both slots below were written for review on 2026-11-15 and are `REVIEW`, not `PU
 - **Why this slot:** The media-wall guide is the unit under a screen. This is what remains.
 - **SERP note:** Not measured.
 
-#### Slot B — `REVIEW 2026-11-15` — Adequate — C37
+#### Slot B — `PUBLISHED 2026-11-15` — Adequate — C37
 
 - **Primary keyword:** bar stool set removal dubai
 - **Title:** Bar stools that will not stack
