@@ -18,7 +18,7 @@ Demolition, disconnection and building repair are not implied by a shop-clearanc
 
 ## Build an asset and ownership register
 
-Walk the sales floor, fitting rooms, cash desk, stockroom, office, pantry, service corridor allocation and any mezzanine. Record each group of items and its owner. Include leased card terminals, supplier displays, security equipment, refrigerators, safes, lockers, IT hardware, promotional material and spare fittings.
+Walk the sales floor, fitting rooms, cash desk, stockroom, office, pantry, service corridor allocation and any mezzanine. Record each group of items and its owner. A counted stack of waiting-room chairs, when that stack is the seating question, is the [waiting-room chair note](/blog/waiting-room-chair-stack-dubai). The rest of the unit stays on this register. Include leased card terminals, supplier displays, security equipment, refrigerators, safes, lockers, IT hardware, promotional material and spare fittings.
 
 Use categories that drive action:
 

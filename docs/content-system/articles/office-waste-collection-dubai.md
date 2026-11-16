@@ -116,7 +116,7 @@ Freeze staff access to active zones, or separate the crew route from normal work
 
 Walk the first zone with the crew. Point out hold labels, fragile items, data-controlled areas and released fixed equipment. Reconcile each zone before moving to the next, especially when the office remains operational.
 
-At completion, compare the removed count with the approved list. Check cupboards, print rooms, pantry storage and temporary staging areas. Confirm that retained and transferred assets remain. Walk the common route and loading bay for loose packaging or panels.
+At completion, compare the removed count with the approved list. Check cupboards, print rooms, pantry storage and temporary staging areas. One microwave in the pantry, kept out of a waste sack, is the [pantry-microwave note](/blog/office-pantry-microwave-dubai). It is not the whole office load. Confirm that retained and transferred assets remain. Walk the common route and loading bay for loose packaging or panels.
 
 Photograph cleared zones where the business or landlord requires a record. Note exceptions and unresolved items rather than silently leaving them outside the agreed inventory. A clear exception list is more useful than an inaccurate claim that the entire office is empty.
 

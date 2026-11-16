@@ -493,6 +493,8 @@ Read the status before the title. A title on a `DO NOT WRITE` slot names the ref
 
 ### Day 18 — Monday 2026-11-16
 
+2026-11-16: these two slots stayed as measurement tasks with no new URL. No Search Console export was in the repository, so the review was not performed in this change. The goal-keyword calendar’s Day 18 pair (one microwave in an office pantry, and a stack of waiting-room chairs) is `REVIEW` in the repository record, not `PUBLISHED`. Production has not been verified in this change. Do not turn these measurement slots into articles.
+
 #### Slot A — `NO NEW URL`
 
 - **Primary keyword:** search console day 60 review

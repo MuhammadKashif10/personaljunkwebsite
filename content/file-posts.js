@@ -477,6 +477,30 @@ export const fileImages = {
 /** Newest first. */
 export const filePosts = [
   {
+    slug: "waiting-room-chair-stack-dubai",
+    title: "A stack of waiting-room chairs",
+    excerpt: "Count the waiting-room chairs that are leaving, and leave the desks off this note.",
+    publishedAt: "2026-11-16T05:00:05.000Z",
+    cover: "office-furniture-cover",
+    services: ["furniture-removal"],
+    seoTitle: "Count the waiting-room chairs",
+    seoDescription: "Count the stack of waiting-room chairs, and leave the desks off this note.",
+    ogTitle: "The stack, not the floor",
+    ogDescription: "A stack of waiting-room chairs."
+  },
+  {
+    slug: "office-pantry-microwave-dubai",
+    title: "One microwave in an office pantry",
+    excerpt: "Empty one office microwave, and keep it out of a waste sack.",
+    publishedAt: "2026-11-16T05:00:00.000Z",
+    cover: "fridge-disposal-cover",
+    services: ["waste-removal"],
+    seoTitle: "Name the pantry microwave",
+    seoDescription: "Empty one office microwave, and keep it out of a waste sack.",
+    ogTitle: "The microwave, not the pantry",
+    ogDescription: "One microwave in an office pantry."
+  },
+  {
     slug: "bar-stools-that-will-not-stack-dubai",
     title: "Bar stools that will not stack",
     excerpt: "Count the bar stools that are leaving, and write that they will not stack.",

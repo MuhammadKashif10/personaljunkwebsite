@@ -137,7 +137,7 @@ export const extraServices = [
       {
         heading: 'What an office clearance includes',
         paragraphs: [
-          'Workstations, task chairs, pedestals once they are empty, meeting tables, soft seating, and a reasonable amount of boxed packaging. Screens, PCs, printers and cables are [e-waste disposal](/services/e-waste-disposal) and should be piled separately so they are not mixed with wood and metal at the dock. We can take them in the same visit.',
+          'Workstations, task chairs, pedestals once they are empty, meeting tables, soft seating, and a reasonable amount of boxed packaging. A counted stack of waiting-room chairs, separate from the task chairs, follows the [waiting-room chair note](/blog/waiting-room-chair-stack-dubai). Screens, PCs, printers and cables are [e-waste disposal](/services/e-waste-disposal) and should be piled separately so they are not mixed with wood and metal at the dock. We can take them in the same visit.',
           'A single room is a short job. A whole floor is a sequenced one: goods lift, a dock that couriers are also using, and a time when staff are not at the desks. [Business Bay](/areas/business-bay), [DIFC](/areas/difc) and [Dubai Silicon Oasis](/areas/dubai-silicon-oasis) are where we do this most. Each has its own security desk. The floor number and the building name are the booking, not the district alone.'
         ]
       },

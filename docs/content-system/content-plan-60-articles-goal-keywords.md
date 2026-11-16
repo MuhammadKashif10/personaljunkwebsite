@@ -596,7 +596,9 @@ Both slots below were set to `PUBLISHED` in the repository record on 2026-11-15 
 
 ### Day 18 — Monday 2026-11-16
 
-#### Slot A — `NEW — supporting article` — Adequate
+Both slots below are `REVIEW` in the repository record on 2026-11-16. They are not `PUBLISHED`. The owner has not said “Merge and live”. Production has not been verified in this change. The 30-day plan’s Day 18 pair stayed as measurement tasks with no new URL. No Search Console export was in the repository, so that review was not performed. G24, K21, G25, K20, M29 and M30 stayed blocked. G26 and M28 stayed out of scope because they still need sources. The 30-day plan’s water-damaged furniture, piano, pool-table, safe, aquarium, hot-tub, above-ground pool-frame, water-tank, ceiling-fan and commercial-gym slots stayed blocked. The 30-day plan’s bookshelf and chest-of-drawers slots stayed unwritten.
+
+#### Slot A — `REVIEW 2026-11-16` — Adequate — E36
 
 - **Primary keyword:** office pantry microwave dubai
 - **Title:** One microwave in an office pantry
@@ -607,7 +609,7 @@ Both slots below were set to `PUBLISHED` in the repository record on 2026-11-15 
 - **Why this slot:** E17 says a home microwave is usually part of a larger load. This is the pantry unit only.
 - **SERP note:** Not measured.
 
-#### Slot B — `NEW — supporting article` — Adequate
+#### Slot B — `REVIEW 2026-11-16` — Adequate — C38
 
 - **Primary keyword:** waiting room chair stack dubai
 - **Title:** A stack of waiting-room chairs

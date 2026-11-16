@@ -435,6 +435,8 @@ The six original, unbranded editorial images below were generated for #22, #32 a
 | #C35 bedside-tables-only-dubai | cover, body | `COMPLETE` — existing mattress cover reused for both 2026-11-14 (repository post). The image is a mattress beside a bedroom doorway. It does not show a bedside table, a drawer or a pair. |
 | #C36 sideboard-after-tv-removed-dubai | cover, body | `COMPLETE` — existing television cover reused for both 2026-11-15 (repository post). The image is an older flat-screen television still sitting on a console in a living room. It does not show a sideboard after the screen has left, an empty drawer, or a measured length. |
 | #C37 bar-stools-that-will-not-stack-dubai | cover, body | `COMPLETE` — existing furniture-by-doorway cover reused for both 2026-11-15 (repository post). The image is a sofa, a chair, a cabinet and shelving beside a doorway. It does not show a bar stool, a footrest, a gas lift, or a set that will not stack. |
+| #E36 office-pantry-microwave-dubai | cover, body | `COMPLETE` — existing refrigerator cover reused for both 2026-11-16 (repository review draft). The image is an empty refrigerator beside a kitchen doorway. It does not show a microwave, a glass plate, a pantry shelf or a waste sack. |
+| #C38 waiting-room-chair-stack-dubai | cover, body | `COMPLETE` — existing office-floor cover reused for both 2026-11-16 (repository review draft). The image is desks, task chairs and cabinets in an office, with a clear corridor. It does not show a waiting room, a nested stack, or a counted set of waiting-room chairs. |
 | #N-17 water-heater-removal-dubai | cover, OG, body | `COMPLETE` — existing media reused 2026-10-16 (Media 73, 77) · a water-heater image would make a better future cover |
 | #6 end-of-tenancy | body | `NEEDED` |
 | #11 junk-gone-today | body | `NEEDED` |
@@ -474,6 +476,7 @@ The six original, unbranded editorial images below were generated for #22, #32 a
 
 | Date | Change |
 |---|---|
+| 2026-11-16 | Reused `fridge-disposal-cover` for E36 and `office-furniture-cover` for C38, each as cover and body. No generation, download or upload. The microwave image is an empty refrigerator beside a kitchen doorway, not a pantry microwave. The chair image is an office floor of desks and task chairs, not a counted waiting-room stack. Both articles are `REVIEW`, not `PUBLISHED`. |
 | 2026-11-15 | Set the C36 and C37 image rows to `PUBLISHED` repository posts. No generation, download or upload. The same inspected images remain. Production was not verified in this change. |
 | 2026-11-15 | Reused `tv-disposal-cover` for C36 and `old-furniture-disposal-cover` for C37, each as cover and body. No generation, download or upload. The sideboard image is a television still sitting on a console, not a cabinet after the screen has left. The bar-stool image is grouped furniture beside a doorway, including one ordinary chair, not a set of stools that will not stack. Both articles are `REVIEW`, not `PUBLISHED`. |
 | 2026-11-14 | Set the C34 and C35 image rows to `PUBLISHED` repository posts. No generation, download or upload. The same inspected images remain. Production was not verified in this change. |
