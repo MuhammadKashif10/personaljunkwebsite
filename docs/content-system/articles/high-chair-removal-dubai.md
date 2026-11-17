@@ -46,7 +46,7 @@ A dining chair that belongs with a table is part of that table’s job. Count it
 
 An armchair has arms, a back and a seat at adult height. A wingback, a swivel and a recliner stay on the armchair guide. Do not call a recliner a high chair because both have a catch. If the chair plugs in, you are on the wrong page.
 
-A cot, a travel cot and a crib are not this chair. A cot is not given a page of its own here. If the object has a sleeping base and sides a child lies inside, say “cot” and stop following these steps. Do not drop a side and call the rest a high chair. Do not remove a cot mattress under these steps. A mattress that belongs to a cot is not the pad on this chair.
+A cot, a travel cot and a crib are not this chair. A cot is not given a page of its own here. If the object has a sleeping base and sides a child lies inside, say “cot” and stop following these steps. Do not drop a side and call the rest a high chair. Do not remove a cot mattress under these steps. A mattress that belongs to a cot is not the pad on this chair. A playpen is not this chair. A playpen whose fold has stopped is the [playpen note](/blog/playpen-removal-dubai).
 
 A camp bed is a folding bed, not a seat. The [camp-bed note](/blog/camp-bed-removal-dubai) is that bed. Do not fold a camp bed and list it as the high chair.
 

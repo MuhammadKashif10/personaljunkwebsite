@@ -493,7 +493,7 @@ Read the status before the title. A title on a `DO NOT WRITE` slot names the ref
 
 ### Day 18 — Monday 2026-11-16
 
-2026-11-16: these two slots stayed as measurement tasks with no new URL. No Search Console export was in the repository, so the review was not performed in this change. The goal-keyword calendar’s Day 18 pair (one microwave in an office pantry, and a stack of waiting-room chairs) is `REVIEW` in the repository record, not `PUBLISHED`. Production has not been verified in this change. Do not turn these measurement slots into articles.
+2026-11-16: these two slots stayed as measurement tasks with no new URL. No Search Console export was in the repository, so the review was not performed in this change. The goal-keyword calendar’s Day 18 pair (one microwave in an office pantry, and a stack of waiting-room chairs) is `PUBLISHED` in the repository record, dated 2026-11-16, after “Merge and live” on 2026-11-17. Production has not been verified in this change. Do not turn these measurement slots into articles.
 
 #### Slot A — `NO NEW URL`
 
@@ -516,6 +516,8 @@ Read the status before the title. A title on a `DO NOT WRITE` slot names the ref
 - **SERP observation:** Head-term results are homepages and service pages. That is the pattern this check is meant to protect. Not measured.
 
 ### Day 19 — Tuesday 2026-11-17
+
+2026-11-17: these two slots stayed `DO NOT WRITE`. No dressing-table or office-chair URL was opened. The goal-keyword calendar’s Day 19 pair (a coat stand wedged in an entry, and a playpen that will not fold) is `PUBLISHED` in the repository record, dated 2026-11-17, after “Merge and live” on 2026-11-17. Production has not been verified in this change.
 
 #### Slot A — `DO NOT WRITE`
 

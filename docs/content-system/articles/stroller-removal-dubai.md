@@ -50,7 +50,7 @@ The general question of whether furniture should come apart is not this fold. A 
 
 A high chair has a seat, a tray and legs that stand at a table. It stays on the high-chair note, even if two small wheels sit on the back legs. Do not list a high chair as a stroller because both fold.
 
-A cot, a travel cot and a crib are not this buggy. Say “cot” and leave this note. Do not add wheels in the description to make a cot fit. A bassinet that has no frame and no wheels, sitting on a floor, is not this page either. Write “bassinet, no frame” as its own line if it is leaving. This page does not open that line into a guide.
+A cot, a travel cot and a crib are not this buggy. Say “cot” and leave this note. Do not add wheels in the description to make a cot fit. A bassinet that has no frame and no wheels, sitting on a floor, is not this page either. Write “bassinet, no frame” as its own line if it is leaving. This page does not open that line into a guide. A playpen with no wheels and no handle is not this buggy either. It is the [playpen note](/blog/playpen-removal-dubai).
 
 A pushchair toy, a doll’s buggy and a ride-on car are not this stroller. If one of them is leaving, name it. Do not fold a child’s toy into the same measurement as the frame a child rode in. A bicycle is not this buggy. A folded pram left on a stair, which is only in the way of a carry, is still this note if it is the object leaving. A neighbour’s buggy on a landing is not yours to move. Photograph it and say the turn is partly blocked by something you cannot clear.
 

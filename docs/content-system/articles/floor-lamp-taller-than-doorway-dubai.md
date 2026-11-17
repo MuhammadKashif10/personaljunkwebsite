@@ -40,7 +40,7 @@ The general question of whether a piece of furniture should come apart is the [d
 
 ## What is not a floor lamp
 
-A table lamp is shorter than this problem. If it sits on a table and the shade is not the tall object in the room, write “table lamp” and keep it off this note. It can leave in the same visit only as its own line, with its own plug and its own shade, without borrowing this doorway comparison.
+A table lamp is shorter than this problem. If it sits on a table and the shade is not the tall object in the room, write “table lamp” and keep it off this note. It can leave in the same visit only as its own line, with its own plug and its own shade, without borrowing this doorway comparison. A coat stand in the entry is not a lamp, even when it is the same height. It has hooks, not a shade, and it is the [coat-stand note](/blog/coat-stand-removal-dubai).
 
 A pair of floor lamps is two lamps. This page prepares the one whose standing height meets the doorway. If the second is also tall, give it the same shade check and the same four figures, under a second name. If the second is short, say “second lamp, not the tall one” and do not hide it in the shade of the first.
 
