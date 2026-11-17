@@ -477,6 +477,30 @@ export const fileImages = {
 /** Newest first. */
 export const filePosts = [
   {
+    slug: "playpen-removal-dubai",
+    title: "A playpen that will not fold",
+    excerpt: "Empty the playpen, find where the fold stops, and say what shape it will leave in.",
+    publishedAt: "2026-11-17T05:00:05.000Z",
+    cover: "weekend-junk-removal-cover",
+    services: ["junk-removal"],
+    seoTitle: "Find where the playpen fold stops",
+    seoDescription: "Empty the playpen, find where the fold stops, and say what shape it will leave in.",
+    ogTitle: "The fold and the door",
+    ogDescription: "One playpen, folded or still standing."
+  },
+  {
+    slug: "coat-stand-removal-dubai",
+    title: "A coat stand wedged in an entry",
+    excerpt: "Empty the coat stand, count the hooks, and measure it against the front door.",
+    publishedAt: "2026-11-17T05:00:00.000Z",
+    cover: "before-crew-arrives-cover",
+    services: ["furniture-removal"],
+    seoTitle: "Measure the coat stand against the door",
+    seoDescription: "Empty the coat stand, count the hooks, and measure it against the front door.",
+    ogTitle: "The hooks and the door",
+    ogDescription: "One coat stand in an entry."
+  },
+  {
     slug: "waiting-room-chair-stack-dubai",
     title: "A stack of waiting-room chairs",
     excerpt: "Count the waiting-room chairs that are leaving, and leave the desks off this note.",

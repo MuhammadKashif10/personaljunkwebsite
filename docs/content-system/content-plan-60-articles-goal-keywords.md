@@ -596,9 +596,9 @@ Both slots below were set to `PUBLISHED` in the repository record on 2026-11-15 
 
 ### Day 18 — Monday 2026-11-16
 
-Both slots below are `REVIEW` in the repository record on 2026-11-16. They are not `PUBLISHED`. The owner has not said “Merge and live”. Production has not been verified in this change. The 30-day plan’s Day 18 pair stayed as measurement tasks with no new URL. No Search Console export was in the repository, so that review was not performed. G24, K21, G25, K20, M29 and M30 stayed blocked. G26 and M28 stayed out of scope because they still need sources. The 30-day plan’s water-damaged furniture, piano, pool-table, safe, aquarium, hot-tub, above-ground pool-frame, water-tank, ceiling-fan and commercial-gym slots stayed blocked. The 30-day plan’s bookshelf and chest-of-drawers slots stayed unwritten.
+Both slots below were set to `PUBLISHED` in the repository record on 2026-11-17, dated 2026-11-16, after the owner said “Merge and live”. Production has not been verified in this change. The 30-day plan’s Day 18 pair stayed as measurement tasks with no new URL. No Search Console export was in the repository, so that review was not performed. G24, K21, G25, K20, M29 and M30 stayed blocked. G26 and M28 stayed out of scope because they still need sources. The 30-day plan’s water-damaged furniture, piano, pool-table, safe, aquarium, hot-tub, above-ground pool-frame, water-tank, ceiling-fan and commercial-gym slots stayed blocked. The 30-day plan’s bookshelf and chest-of-drawers slots stayed unwritten.
 
-#### Slot A — `REVIEW 2026-11-16` — Adequate — E36
+#### Slot A — `PUBLISHED 2026-11-16` — Adequate — E36
 
 - **Primary keyword:** office pantry microwave dubai
 - **Title:** One microwave in an office pantry
@@ -609,7 +609,7 @@ Both slots below are `REVIEW` in the repository record on 2026-11-16. They are n
 - **Why this slot:** E17 says a home microwave is usually part of a larger load. This is the pantry unit only.
 - **SERP note:** Not measured.
 
-#### Slot B — `REVIEW 2026-11-16` — Adequate — C38
+#### Slot B — `PUBLISHED 2026-11-16` — Adequate — C38
 
 - **Primary keyword:** waiting room chair stack dubai
 - **Title:** A stack of waiting-room chairs
@@ -622,7 +622,9 @@ Both slots below are `REVIEW` in the repository record on 2026-11-16. They are n
 
 ### Day 19 — Tuesday 2026-11-17
 
-#### Slot A — `NEW — supporting article` — Adequate
+Both slots below were set to `PUBLISHED` in the repository record on 2026-11-17 after the owner said “Merge and live”. Production has not been verified in this change. The 30-day plan’s Day 19 pair (a dressing table and an office chair) stayed `DO NOT WRITE`. G24, K21, G25, K20, M29 and M30 stayed blocked. G26 and M28 stayed out of scope because they still need sources. The 30-day plan’s water-damaged furniture, piano, pool-table, safe, aquarium, hot-tub, above-ground pool-frame, water-tank, ceiling-fan and commercial-gym slots stayed blocked. The 30-day plan’s bookshelf and chest-of-drawers slots stayed unwritten.
+
+#### Slot A — `PUBLISHED 2026-11-17` — Adequate — C39
 
 - **Primary keyword:** coat stand removal dubai
 - **Title:** A coat stand wedged in an entry
@@ -633,7 +635,7 @@ Both slots below are `REVIEW` in the repository record on 2026-11-16. They are n
 - **Why this slot:** Thin object, real snag at the door. Borderline filler if the draft pads.
 - **SERP note:** Not measured.
 
-#### Slot B — `NEW — supporting article` — Adequate
+#### Slot B — `PUBLISHED 2026-11-17` — Adequate — A39
 
 - **Primary keyword:** playpen removal dubai
 - **Title:** A playpen that will not fold
