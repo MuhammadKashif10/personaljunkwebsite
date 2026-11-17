@@ -84,7 +84,7 @@ In a house, the route may be a utility room, a step at the kitchen door and a dr
 
 Send three photos: the whole cabinet from the front, the capped pipe where it used to connect, and the tightest point on the route. Add the measurements. If the rear looks like a sealed cooling housing, say that and say you have not opened it. If a supplier is collecting the bottles on another day, say the bottles are not in this load.
 
-Do not add the rest of the pantry so the job looks larger. A kettle, a microwave and a box of cups are a different list. If those are also leaving, name them. If they are staying, move them out of the frame. A room of unlike appliances, with this cooler as one line, belongs on the old-appliance register so each connection is assigned to someone.
+Do not add the rest of the pantry so the job looks larger. A kettle, a microwave and a box of cups are a different list. If the only item is one microwave in an office pantry, the [pantry-microwave note](/blog/office-pantry-microwave-dubai) is that unit. If those are also leaving, name them. If they are staying, move them out of the frame. A room of unlike appliances, with this cooler as one line, belongs on the old-appliance register so each connection is assigned to someone.
 
 If the cabinet is still plumbed when you write the message, you are early. Finish the cap first. A crew booked against a live pipe cannot invent a safe disconnection at the doorway, and this service does not take on plumbing by being asked to “just cut it”.
 

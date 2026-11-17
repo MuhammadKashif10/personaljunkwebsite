@@ -92,7 +92,7 @@ A bench at the counter is not a stool. If the bench is leaving, write “bench, 
 
 A whole children’s room, a whole dining set, or a whole balcony of furniture is not four bar stools. If the only objects from the balcony are these stools, you may count them here and say they are on the balcony. If the balcony is being cleared, use the balcony list. Do not turn this note into the balcony.
 
-A stack of identical chairs from a waiting room, or a restaurant floor of banquet chairs, is not this set. This page does not cover those rooms. If the seats are tall stools in a home, and they will not stack, you are in the right place. If they are a commercial run of chairs, you are not. This page does not give that commercial run a URL.
+A stack of identical chairs from a waiting room is the [waiting-room chair note](/blog/waiting-room-chair-stack-dubai). A restaurant floor of banquet chairs is not this set, and it is not that note. This page does not cover a banquet room. If the seats are tall stools in a home, and they will not stack, you are in the right place. If they are a commercial run of chairs, you are not.
 
 Whether another household could use a sound stool is not decided here. This page does not add a test or a standard. If you have decided the stools are leaving, the count and the stack are the work. If you have not decided, do not book them.
 

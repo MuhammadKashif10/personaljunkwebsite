@@ -84,7 +84,7 @@ A chair from a bedroom, used at a desk, is not this set unless it came from this
 
 A bar stool that will not stack is the [bar-stool note](/blog/bar-stools-that-will-not-stack-dubai). A counter stool and a balcony stool of that kind use the same note. They are not added to the dining-chair count.
 
-An office chair on wheels is not a dining chair. Name it as an office chair if it is leaving, or leave it. This page will not become that chair.
+An office chair on wheels is not a dining chair. Name it as an office chair if it is leaving, or leave it. This page will not become that chair. A counted stack of waiting-room chairs is the [waiting-room chair note](/blog/waiting-room-chair-stack-dubai). An office chair is still not given a URL.
 
 A whole children’s room, with a cot, a bed and bags of toys, is not four dining chairs. If the only object from that room is one small chair that matches the dining table, you may count it here and say which room it is in. If the room is being cleared, use the room’s own list. Do not turn this note into the room.
 
