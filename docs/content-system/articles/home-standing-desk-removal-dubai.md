@@ -16,7 +16,7 @@ If the desk belongs to a landlord, a furnished let, or a company that has not re
 
 Take everything off the top. A monitor, a laptop, a lamp, a notebook, a headset and a mug are not the desk. Put what is staying on a surface you are keeping. Put what is leaving in its own group, with its own name.
 
-A computer, a screen and a printer are electronics. They need their own line. The [IT equipment guide](/blog/it-equipment-disposal-dubai) is a commercial floor of machines, drives and a loading arrangement. Use it when the desk is one item in that floor. For a home, name the screen and the computer in the same message as the desk, and say whether each one is staying or leaving. Do not call the desk “IT” because a monitor was clamped to it.
+A computer, a screen and a printer are electronics. They need their own line. The [IT equipment guide](/blog/it-equipment-disposal-dubai) is a commercial floor of machines, drives and a loading arrangement. Use it when the desk is one item in that floor. For a home, name the screen and the computer in the same message as the desk, and say whether each one is staying or leaving. Do not call the desk “IT” because a monitor was clamped to it. One monitor that is leaving, including one on a desk arm, is the [monitor note](/blog/single-home-monitor-removal-dubai).
 
 Unplug the screen and the computer from the sockets you can see. Coil the leads you are sending with those machines, or bag them and label the bag. A lead that still runs to a router you are keeping stays with the router. Follow a cable to both ends before you pack it.
 

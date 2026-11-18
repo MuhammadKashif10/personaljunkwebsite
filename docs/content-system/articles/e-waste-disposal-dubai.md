@@ -121,7 +121,7 @@ Ask any paid provider the same questions you would ask an e-waste company: where
 
 ### Televisions and monitors
 
-Screens are fragile and can be heavy. Keep them upright, protect the face of the screen and do not stack other items on them. Small monitors can go to a drop-off point; large televisions suit the bulky-waste programme or a collection.
+Screens are fragile and can be heavy. Keep them upright, protect the face of the screen and do not stack other items on them. Small monitors can go to a drop-off point; large televisions suit the bulky-waste programme or a collection. When the question is one computer monitor from a home desk, with its stand, leads and screen face, the [monitor note](/blog/single-home-monitor-removal-dubai) prepares that single screen.
 
 ### Laptops and phones
 

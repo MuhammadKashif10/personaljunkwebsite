@@ -56,7 +56,7 @@ Ask which protection the building requires and who supplies it. Common areas may
 
 Wrap the old sofa enough to contain dust and protect surfaces, but preserve safe handholds. Loose plastic can snag underfoot. Secure recliner mechanisms and sofa-bed frames so they do not open during a turn. Move detached feet and cushions separately instead of balancing them on the main piece.
 
-The new sofa may arrive in boxes or fabric sleeves. Decide where packaging will be opened and where waste will be held without blocking the exit. Do not discard packaging until the delivered pieces have been checked, but do not leave it across the carry route either.
+The new sofa may arrive in boxes or fabric sleeves. Decide where packaging will be opened and where waste will be held without blocking the exit. Do not discard packaging until the delivered pieces have been checked, but do not leave it across the carry route either. Once the new piece is checked, the [foam-wrap note](/blog/foam-wrap-from-furniture-delivery-dubai) covers unrolling the wrap for parts and bagging it.
 
 ## Make the quote cover the complete old-sofa load
 
