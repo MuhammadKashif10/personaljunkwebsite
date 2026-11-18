@@ -648,7 +648,9 @@ Both slots below were set to `PUBLISHED` in the repository record on 2026-11-17 
 
 ### Day 20 — Wednesday 2026-11-18
 
-#### Slot A — `NEW — supporting article` — Adequate
+Both slots below are `REVIEW` in the repository record on 2026-11-18. They are not `PUBLISHED`. The owner has not said “Merge and live” for this pair. Production has not been verified in this change. The 30-day plan’s Day 20 pair (a filing cabinet and a baby cot) stayed `DO NOT WRITE`. G24, K21, G25, K20, M29 and M30 stayed blocked. G26 and M28 stayed out of scope because they still need sources. The 30-day plan’s water-damaged furniture, piano, pool-table, safe, aquarium, hot-tub, above-ground pool-frame, water-tank, ceiling-fan and commercial-gym slots stayed blocked. The 30-day plan’s bookshelf and chest-of-drawers slots stayed unwritten.
+
+#### Slot A — `REVIEW 2026-11-18` — Adequate — E37
 
 - **Primary keyword:** single computer monitor at home dubai
 - **Title:** One computer monitor from a home desk
@@ -659,7 +661,7 @@ Both slots below were set to `PUBLISHED` in the repository record on 2026-11-17 
 - **Why this slot:** Not an office IT clear-out.
 - **SERP note:** Not measured.
 
-#### Slot B — `NEW — supporting article` — Adequate
+#### Slot B — `REVIEW 2026-11-18` — Adequate — F26
 
 - **Primary keyword:** foam wrap from a furniture delivery dubai
 - **Title:** Foam wrap from a furniture delivery

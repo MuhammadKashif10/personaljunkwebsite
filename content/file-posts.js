@@ -477,6 +477,30 @@ export const fileImages = {
 /** Newest first. */
 export const filePosts = [
   {
+    slug: "foam-wrap-from-furniture-delivery-dubai",
+    title: "Foam wrap from a furniture delivery",
+    excerpt: "Unroll the wrap once, take out the parts taped inside it, and count the bags.",
+    publishedAt: "2026-11-18T05:00:05.000Z",
+    cover: "before-crew-arrives-cover",
+    services: ["junk-removal"],
+    seoTitle: "Check the delivery wrap for parts",
+    seoDescription: "Unroll the furniture wrap once, take out the parts taped inside it, and count the bags.",
+    ogTitle: "The wrap, not the sofa",
+    ogDescription: "Foam wrap from a furniture delivery."
+  },
+  {
+    slug: "single-home-monitor-removal-dubai",
+    title: "One computer monitor from a home desk",
+    excerpt: "Unplug one monitor, decide which leads go with it, and keep the screen out of a waste sack.",
+    publishedAt: "2026-11-18T05:00:00.000Z",
+    cover: "tv-disposal-cover",
+    services: ["waste-removal"],
+    seoTitle: "Unplug the monitor and decide the leads",
+    seoDescription: "Unplug one home monitor, decide which leads go with it, and keep it out of a sack.",
+    ogTitle: "The screen, not the desk",
+    ogDescription: "One computer monitor from a home desk."
+  },
+  {
     slug: "playpen-removal-dubai",
     title: "A playpen that will not fold",
     excerpt: "Empty the playpen, find where the fold stops, and say what shape it will leave in.",

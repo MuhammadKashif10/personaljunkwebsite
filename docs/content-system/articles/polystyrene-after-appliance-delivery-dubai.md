@@ -66,7 +66,7 @@ Brackets, a stand and a bag of screws from the television carton belong with the
 
 This pile exists because one appliance, or a short run of appliances, was delivered to a home. It is not the cardboard left at the end of a house move. If you are unpacking a whole move, stay on the packing guide and treat this foam as one line inside that larger sort. Do not open a second booking that describes the same bags.
 
-If the cartons held goods you sell, and the foam is an extra line beside those cartons, the subject is the [product-box note](/blog/product-boxes-not-moving-boxes-dubai). That page keeps the goods out of the pile. This page starts when the foam from an appliance in a home is the thing you need taken.
+If the cartons held goods you sell, and the foam is an extra line beside those cartons, the subject is the [product-box note](/blog/product-boxes-not-moving-boxes-dubai). That page keeps the goods out of the pile. This page starts when the foam from an appliance in a home is the thing you need taken. Soft foam sheet, stretch film and bubble wrap from a furniture delivery are not these shapes. They are the [foam-wrap note](/blog/foam-wrap-from-furniture-delivery-dubai).
 
 If the flat is filling with successive delivery cartons and you still live there, the volume of board is the [shipping-carton plan](/blog/shipping-cartons-filling-a-flat-dubai). Foam in that flat is still a separate line. When the line has become the whole problem, because an appliance’s inserts are what will not fit anywhere, you are on this page. Do not rename it “boxes” to make it sound smaller.
 

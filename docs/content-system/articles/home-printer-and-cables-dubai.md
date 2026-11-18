@@ -86,7 +86,7 @@ Where a printer, a cartridge or a bundle of leads can be taken, and which offici
 
 Do not treat this note as a list of drop-off sites, a statement of what a centre accepts, or a timetable. Those details change, and they are not re-copied here. If a working printer has someone who will take it, arrange that handover yourself and keep the machine out of the leaving photos until the person has it. A message that says someone might want it is not a handover. Until they collect it, the printer is still in the room and still on your list, or you decide it is waste and prepare it as waste.
 
-A television, a fridge or a washing machine in the same room is not absorbed by this note. Name the screen or the appliance as its own item. A television’s leads can sit in your cable sort only when you have decided the television’s leads are spare. The television itself stays on its own line.
+A television, a fridge or a washing machine in the same room is not absorbed by this note. One computer monitor from the same desk is the [monitor note](/blog/single-home-monitor-removal-dubai), with its own leads decided there. Name the screen or the appliance as its own item. A television’s leads can sit in your cable sort only when you have decided the television’s leads are spare. The television itself stays on its own line.
 
 Reuse, a shop that might buy the printer, and a guess at what the machine is worth are outside this page. The business removes items. It does not buy them, sell them or price them for you.
 
