@@ -477,6 +477,30 @@ export const fileImages = {
 /** Newest first. */
 export const filePosts = [
   {
+    slug: "vacuum-cleaner-removal-dubai",
+    title: "A vacuum cleaner from a cupboard",
+    excerpt: "Empty the dust, decide the hose and the battery, and keep one vacuum out of a sack.",
+    publishedAt: "2026-11-19T05:00:05.000Z",
+    cover: "what-we-take-cover",
+    services: ["junk-removal"],
+    seoTitle: "Empty the vacuum before it leaves the cupboard",
+    seoDescription: "Empty the dust, decide the hose and the battery, and keep one vacuum out of a sack.",
+    ogTitle: "The machine, not the cupboard",
+    ogDescription: "A vacuum cleaner from a cupboard."
+  },
+  {
+    slug: "shoe-cabinet-removal-dubai",
+    title: "A shoe cabinet in a narrow hall",
+    excerpt: "Empty the shoe cabinet, measure it in the hall, and say whether it is fixed.",
+    publishedAt: "2026-11-19T05:00:00.000Z",
+    cover: "old-furniture-disposal-cover",
+    services: ["junk-removal"],
+    seoTitle: "Empty the shoe cabinet and measure the hall",
+    seoDescription: "Empty the shoe cabinet, measure it in the hall, and say whether it is fixed.",
+    ogTitle: "The cabinet, not the hall",
+    ogDescription: "A shoe cabinet in a narrow hall."
+  },
+  {
     slug: "foam-wrap-from-furniture-delivery-dubai",
     title: "Foam wrap from a furniture delivery",
     excerpt: "Unroll the wrap once, take out the parts taped inside it, and count the bags.",

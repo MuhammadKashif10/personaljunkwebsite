@@ -97,7 +97,7 @@ If the stand is yours, and you are keeping the flat, the question is only whethe
 
 A clothes rail on wheels, the kind used for drying or for an overflow wardrobe, is not a coat stand. It is longer, it is often in a bedroom, and it is not given a URL of its own here. Name it as a clothes rail on the [apartment furniture list](/blog/apartment-furniture-removal-dubai) if it is leaving. Do not call it a coat stand to use this note.
 
-A shoe cabinet in the entry is not this stand. It is a cabinet with doors and shelves, and it has contents. If it is leaving, it is its own line. A console table, a key bowl, a mirror on a hook, a bench that stands alone and an umbrella bucket are each their own line. Do not stand them together and write “the hall” as if it were one piece.
+A shoe cabinet in the entry is not this stand. It is a cabinet with doors and shelves, and it has contents. If it is leaving, it is the [shoe-cabinet note](/blog/shoe-cabinet-removal-dubai). A console table, a key bowl, a mirror on a hook, a bench that stands alone and an umbrella bucket are each their own line. Do not stand them together and write “the hall” as if it were one piece.
 
 A floor lamp is not a coat stand, even when it is the same height and stands in the same corner. A lamp has a shade, a cable, a bulb and a switch. Use the floor-lamp note for it. Do not hang a coat on a lamp to make it fit here.
 

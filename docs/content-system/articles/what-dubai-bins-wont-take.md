@@ -36,7 +36,7 @@ Until the collection is confirmed, keep large items inside the property. Leaving
 
 ### Electronics
 
-Phones, laptops, chargers, cables, small appliances, monitors and televisions are electronic waste. The Waste Segregation Guide directs households to place them at a Dubai Municipality Smart Sustainability Oasis, or to contact an approved e-waste processing company.
+Phones, laptops, chargers, cables, small appliances, monitors and televisions are electronic waste. The Waste Segregation Guide directs households to place them at a Dubai Municipality Smart Sustainability Oasis, or to contact an approved e-waste processing company. One vacuum cleaner from a cupboard, prepared so it is not bagged with kitchen rubbish, is the [vacuum note](/blog/vacuum-cleaner-removal-dubai). This section keeps the question of what the bins will not take.
 
 ### Batteries and lamps
 
