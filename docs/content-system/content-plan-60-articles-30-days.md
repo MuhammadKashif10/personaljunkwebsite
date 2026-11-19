@@ -565,7 +565,7 @@ Read the status before the title. A title on a `DO NOT WRITE` slot names the ref
 
 ### Day 21 — Thursday 2026-11-19
 
-2026-11-19: these two slots stayed `DO NOT WRITE`. No bunk-bed or curtain URL was opened. The goal-keyword calendar’s coffee-table slot was not written, because that keyword is `DO NOT WRITE` on Day 22 of this plan. The shoe-cabinet slot and the next eligible slot, a vacuum cleaner from a cupboard, were written for review as C40 and E38. Both are `REVIEW`, not `PUBLISHED`.
+2026-11-19: these two slots stayed `DO NOT WRITE`. No bunk-bed or curtain URL was opened. The goal-keyword calendar’s coffee-table slot was not written, because that keyword is `DO NOT WRITE` on Day 22 of this plan. The shoe-cabinet slot and the next eligible slot, a vacuum cleaner from a cupboard, are `PUBLISHED` in the repository record as C40 and E38, dated 2026-11-19, after “Merge and live” on 2026-11-19.
 
 #### Slot A — `DO NOT WRITE`
 
