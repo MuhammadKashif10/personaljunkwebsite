@@ -674,7 +674,9 @@ Both slots below were set to `PUBLISHED` in the repository record on 2026-11-18 
 
 ### Day 21 — Thursday 2026-11-19
 
-#### Slot A — `NEW — supporting article` — Thin
+The coffee-table slot was not written. The 30-day plan records `coffee table removal dubai` as `DO NOT WRITE` (its Day 22, Test 6: a coffee table does not have a preparation problem of its own). The shoe-cabinet slot (C40) and the vacuum slot brought forward from Day 22 Slot A (E38) were set to `PUBLISHED` in the repository record on 2026-11-19 after the owner said “Merge and live”. The 30-day plan’s Day 21 pair (a bunk bed and curtains) stayed `DO NOT WRITE`. G24, K21, G25, K20, M29 and M30 stayed blocked. G26 and M28 stayed out of scope because they still need sources. The 30-day plan’s water-damaged furniture, piano, pool-table, safe, aquarium, hot-tub, above-ground pool-frame, water-tank, ceiling-fan and commercial-gym slots stayed blocked. The 30-day plan’s bookshelf and chest-of-drawers slots stayed unwritten.
+
+#### Slot A — `NOT WRITTEN — 30-day plan DO NOT WRITE` — Thin
 
 - **Primary keyword:** coffee table removal dubai
 - **Title:** One coffee table from a living room
@@ -682,10 +684,10 @@ Both slots below were set to `PUBLISHED` in the repository record on 2026-11-18 
 - **Suggested URL:** `/blog/coffee-table-only-dubai`
 - **Supports targets:** 5
 - **Internal links:** `/services/furniture-removal` — anchor: “a small furniture pickup”; `/blog/dispose-old-furniture-dubai`; `/blog/apartment-furniture-removal-dubai`; `/services/junk-removal`
-- **Why this slot:** Test 6 is weak. Publish only if the draft stays on this table.
+- **Why this slot:** Test 6 is weak. Publish only if the draft stays on this table. 2026-11-19: not written. The 30-day plan already fails this keyword on Test 6.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
-#### Slot B — `NEW — supporting article` — Thin
+#### Slot B — `PUBLISHED 2026-11-19` — Thin — C40
 
 - **Primary keyword:** shoe cabinet removal dubai
 - **Title:** A shoe cabinet in a narrow hall
@@ -693,12 +695,16 @@ Both slots below were set to `PUBLISHED` in the repository record on 2026-11-18 
 - **Suggested URL:** `/blog/shoe-cabinet-removal-dubai`
 - **Supports targets:** 5, 1
 - **Internal links:** `/services/junk-removal` — anchor: “add the cabinet to the junk”; `/blog/apartment-furniture-removal-dubai`; `/blog/furniture-dismantling-dubai`; `/services/furniture-removal`
-- **Why this slot:** Easy to pad. Cut first if the week is full.
+- **Why this slot:** Easy to pad. Cut first if the week is full. Set to `PUBLISHED` on 2026-11-19 after “Merge and live”.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
+
+#### Substitute for Slot A — `PUBLISHED 2026-11-19` — Thin — E38
+
+Brought forward from Day 22 Slot A on 2026-11-19. See that slot. Set to `PUBLISHED` on 2026-11-19 after “Merge and live”.
 
 ### Day 22 — Friday 2026-11-20
 
-#### Slot A — `NEW — supporting article` — Thin
+#### Slot A — `PUBLISHED 2026-11-19` — Thin — E38
 
 - **Primary keyword:** vacuum cleaner removal dubai
 - **Title:** A vacuum cleaner from a cupboard
@@ -706,7 +712,7 @@ Both slots below were set to `PUBLISHED` in the repository record on 2026-11-18 
 - **Suggested URL:** `/blog/vacuum-cleaner-removal-dubai`
 - **Supports targets:** 1, 9
 - **Internal links:** `/services/junk-removal` — anchor: “a small rubbish pickup”; `/blog/old-appliance-removal-dubai`; `/blog/what-we-take-dubai`; `/services/waste-removal`
-- **Why this slot:** Usually part of a larger load. Filler unless the bin question is the whole piece.
+- **Why this slot:** Usually part of a larger load. Filler unless the bin question is the whole piece. Brought forward on 2026-11-19 because the Day 21 coffee-table slot is `DO NOT WRITE` on the 30-day plan. Set to `PUBLISHED` on 2026-11-19 after “Merge and live”.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
 #### Slot B — `NEW — supporting article` — Thin
