@@ -20,7 +20,7 @@ Everything this article covers sits outside those containers. If you are asking 
 
 ### Why they don’t go in the bin
 
-A sofa, mattress, wardrobe or fridge does not fit a household container, and forcing one in or leaving it beside the bins blocks the area for everyone else. Article 6 of [Law No. (18) of 2024 Regulating Waste Management](https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Law%20No.%20(18)%20of%202024%20Regulating%20Waste%20Management.html) prohibits dumping materials that may damage a waste container or a waste transport vehicle, and prohibits accumulating or discarding waste in buildings and public places.
+A sofa, mattress, wardrobe or fridge does not fit a household container, and forcing one in or leaving it beside the bins blocks the area for everyone else. An ironing board behind a door is not a new rule on this page. The [ironing-board note](/blog/ironing-board-removal-dubai) is that board, once the cover is checked and the fold is tried. Article 6 of [Law No. (18) of 2024 Regulating Waste Management](https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Law%20No.%20(18)%20of%202024%20Regulating%20Waste%20Management.html) prohibits dumping materials that may damage a waste container or a waste transport vehicle, and prohibits accumulating or discarding waste in buildings and public places.
 
 ### Where they go instead
 

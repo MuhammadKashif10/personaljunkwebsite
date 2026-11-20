@@ -6,7 +6,7 @@ This note is one vacuum. A list of unlike machines, each with its own disconnect
 
 A vacuum, for this note, is a machine whose job is to pick up dust. It may be an upright, a cylinder with a hose, a stick, or a small robot that sits on a dock. Write which one. “Upright, with a hose on the back.” “Cylinder, hose and wand.” “Stick, one battery.” “Robot, with its dock.”
 
-A fan is not a vacuum. A pedestal fan, a desk fan or a ceiling fan does not pick up dust, and a ceiling fan is not confirmed on this page. If the object is a fan, say “fan” and stop following these steps. Do not describe a fan as a vacuum because both come out of a cupboard.
+A fan is not a vacuum. A pedestal fan that will not fold is the [pedestal-fan note](/blog/pedestal-fan-removal-dubai). A desk fan is not that note. A ceiling fan is not confirmed on this page. If the object is a ceiling fan, say “ceiling fan” and stop. Do not describe a fan as a vacuum because both come out of a cupboard.
 
 A carpet washer, a steam cleaner or a machine with a tank of water and detergent is not this vacuum. It holds liquid. Write what it is, and do not empty a chemical tank under these steps. This note does not tell you where detergent goes.
 

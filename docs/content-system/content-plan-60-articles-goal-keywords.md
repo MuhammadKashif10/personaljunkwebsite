@@ -704,6 +704,8 @@ Brought forward from Day 22 Slot A on 2026-11-19. See that slot. Set to `PUBLISH
 
 ### Day 22 — Friday 2026-11-20
 
+Slot A was already published on 2026-11-19 as E38. Slot B was written for review on 2026-11-20 as E39. The second article for this day is Day 23 Slot A (C41), brought forward because Slot A of this day was no longer unwritten. The 30-day plan’s Day 22 pair (a mirror and a coffee table) stayed `DO NOT WRITE`. G24, K21, G25, K20, M29 and M30 stayed blocked. G26 and M28 stayed out of scope. A ceiling fan stayed blocked.
+
 #### Slot A — `PUBLISHED 2026-11-19` — Thin — E38
 
 - **Primary keyword:** vacuum cleaner removal dubai
@@ -715,7 +717,7 @@ Brought forward from Day 22 Slot A on 2026-11-19. See that slot. Set to `PUBLISH
 - **Why this slot:** Usually part of a larger load. Filler unless the bin question is the whole piece. Brought forward on 2026-11-19 because the Day 21 coffee-table slot is `DO NOT WRITE` on the 30-day plan. Set to `PUBLISHED` on 2026-11-19 after “Merge and live”.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
-#### Slot B — `NEW — supporting article` — Thin
+#### Slot B — `REVIEW 2026-11-20` — Thin — E39
 
 - **Primary keyword:** pedestal fan removal dubai
 - **Title:** A pedestal fan that will not fold
@@ -723,12 +725,14 @@ Brought forward from Day 22 Slot A on 2026-11-19. See that slot. Set to `PUBLISH
 - **Suggested URL:** `/blog/pedestal-fan-removal-dubai`
 - **Supports targets:** 1
 - **Internal links:** `/services/junk-removal` — anchor: “include the fan in the pickup”; `/blog/old-appliance-removal-dubai`; `/blog/balcony-clearance-dubai`; `/blog/what-we-take-dubai`
-- **Why this slot:** Not a ceiling fan. Still a thin object.
+- **Why this slot:** Not a ceiling fan. Still a thin object. Written for review on 2026-11-20 as E39. Not `PUBLISHED`. A ceiling fan stays blocked.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
 ### Day 23 — Saturday 2026-11-21
 
-#### Slot A — `NEW — supporting article` — Thin
+Slot A was brought forward and written for review on 2026-11-20 as C41, because Day 22 Slot A was already published as E38 and Day 22 still needed a second eligible article. Slot B on this day stays unwritten.
+
+#### Slot A — `REVIEW 2026-11-20` — Thin — C41
 
 - **Primary keyword:** ironing board removal dubai
 - **Title:** An ironing board behind a door
@@ -736,7 +740,7 @@ Brought forward from Day 22 Slot A on 2026-11-19. See that slot. Set to `PUBLISH
 - **Suggested URL:** `/blog/ironing-board-removal-dubai`
 - **Supports targets:** 1, 5
 - **Internal links:** `/services/furniture-removal` — anchor: “take it with the furniture”; `/blog/bedroom-furniture-removal-dubai`; `/blog/what-dubai-bins-wont-take`; `/services/junk-removal`
-- **Why this slot:** Filler. The bins guide may already be enough.
+- **Why this slot:** Filler. The bins guide may already be enough. Written for review on 2026-11-20 as C41, brought forward from this day. Not `PUBLISHED`. The bedroom guide keeps the whole room. The bins guide keeps the container question.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
 #### Slot B — `NEW — supporting article` — Thin
