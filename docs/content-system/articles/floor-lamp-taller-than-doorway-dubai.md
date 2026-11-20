@@ -1,6 +1,6 @@
 The lamp is too tall for the opening in front of it. Measure the standing height, the widest part of the shade, and the clear gap of the doorway with the door as open as it goes. If the shade lifts off by hand, take it off and measure the stem again. A booking that says “the lights” will be read as a bag of fittings. This note is one floor lamp.
 
-A fan fixed to the ceiling is not this lamp. That job is unconfirmed here, and this page does not describe how to take one down. A light screwed to the wall is a fitting, not a floor lamp. Leave it on the wall. A lamp that only sits on a bedside table is not this floor lamp. The pair of tables is the [bedside-table note](/blog/bedside-tables-only-dubai).
+A fan fixed to the ceiling is not this lamp. That job is unconfirmed here, and this page does not describe how to take one down. A freestanding pedestal fan, with a guard and a pole, is the [pedestal-fan note](/blog/pedestal-fan-removal-dubai). A light screwed to the wall is a fitting, not a floor lamp. Leave it on the wall. A lamp that only sits on a bedside table is not this floor lamp. The pair of tables is the [bedside-table note](/blog/bedside-tables-only-dubai).
 
 ## Shade, stem and base
 
@@ -48,7 +48,7 @@ A framed picture on the wall beside the lamp is not the lamp. Taking that frame 
 
 A whole flat of beds, wardrobes and tables is the [apartment furniture plan](/blog/apartment-furniture-removal-dubai). The lamp is one line on that list when the flat is leaving. Come back to this page for the shade and the doorway. Do not paste the lamp into “bedroom” and hope the height is obvious.
 
-A ceiling fan stays unconfirmed. Do not book one by describing it as a tall lamp, and do not remove the blades to make the sentence fit. A wall light stays on the wall. Write “wall fitting, not a floor lamp” if someone has grouped it with this lamp, and do not unscrew it under these steps.
+A ceiling fan stays unconfirmed. Do not book one by describing it as a tall lamp, and do not remove the blades to make the sentence fit. A pedestal fan is not a lamp either. Use the pedestal-fan note for that fan, and do not saw its pole to make it fit this page. A wall light stays on the wall. Write “wall fitting, not a floor lamp” if someone has grouped it with this lamp, and do not unscrew it under these steps.
 
 A base screwed or bolted to the floor is not free. Write “base fixed to the floor”. Do not unscrew the floor, and do not rock the base until the fixing gives. This page starts when the lamp already stands free. Until it does, it is not the object in the measurements.
 

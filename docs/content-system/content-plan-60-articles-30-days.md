@@ -589,7 +589,7 @@ Read the status before the title. A title on a `DO NOT WRITE` slot names the ref
 
 ### Day 22 — Friday 2026-11-20
 
-2026-11-19: the coffee-table slot below stayed `DO NOT WRITE`. No coffee-table URL was opened when the goal-keyword calendar reached the same keyword.
+2026-11-19: the coffee-table slot below stayed `DO NOT WRITE`. No coffee-table URL was opened when the goal-keyword calendar reached the same keyword. 2026-11-20: these two slots stayed `DO NOT WRITE`. No mirror URL was opened. The goal-keyword calendar’s remaining Day 22 slot, a pedestal fan that will not fold, and the next eligible slot, an ironing board behind a door, are `PUBLISHED` in the repository record as E39 and C41, dated 2026-11-20, after “Merge and live” on 2026-11-20. A ceiling fan stayed blocked.
 
 #### Slot A — `DO NOT WRITE`
 
@@ -612,6 +612,8 @@ Read the status before the title. A title on a `DO NOT WRITE` slot names the ref
 - **SERP observation:** Competitors fold tables into general furniture lists. Not measured.
 
 ### Day 23 — Saturday 2026-11-21
+
+2026-11-20: these two slots stayed `DO NOT WRITE`. No microwave URL and no cardboard URL were opened. The goal-keyword calendar’s ironing-board slot on this day is `PUBLISHED` as C41, dated 2026-11-20, because the goal-keyword Day 22 vacuum slot was already published. That is not this microwave slot.
 
 #### Slot A — `DO NOT WRITE`
 

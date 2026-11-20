@@ -477,6 +477,30 @@ export const fileImages = {
 /** Newest first. */
 export const filePosts = [
   {
+    slug: "ironing-board-removal-dubai",
+    title: "An ironing board behind a door",
+    excerpt: "Check the cover, try the fold, and name the door the board was blocking.",
+    publishedAt: "2026-11-20T05:00:05.000Z",
+    cover: "wardrobe-removal-cover",
+    services: ["furniture-removal"],
+    seoTitle: "Check the cover and try the fold",
+    seoDescription: "Check the cover, try the fold, and name the door the board was blocking.",
+    ogTitle: "The board, not the door",
+    ogDescription: "An ironing board behind a door."
+  },
+  {
+    slug: "pedestal-fan-removal-dubai",
+    title: "A pedestal fan that will not fold",
+    excerpt: "Name the joint that will not close, and keep one pedestal fan as its own line.",
+    publishedAt: "2026-11-20T05:00:00.000Z",
+    cover: "weekend-junk-removal-cover",
+    services: ["junk-removal"],
+    seoTitle: "Name the joint that will not close",
+    seoDescription: "Name the joint that will not close, and keep one pedestal fan as its own line.",
+    ogTitle: "The fan, not the ceiling",
+    ogDescription: "A pedestal fan that will not fold."
+  },
+  {
     slug: "vacuum-cleaner-removal-dubai",
     title: "A vacuum cleaner from a cupboard",
     excerpt: "Empty the dust, decide the hose and the battery, and keep one vacuum out of a sack.",
