@@ -30,7 +30,7 @@ Check the feet and the joints for socks, a belt, a clothes hanger, or a piece of
 
 If the clothes are still wet, they are still not the rack. Hang them where you are keeping them, or bag them as their own line if they are leaving. Do not roll wet clothes into the frame to make the photo look tidy. Wet fabric against a metal hinge is a stain on the floor when the rack is tipped, not a smaller load.
 
-A laundry basket standing beside the rack is not the rack. If the basket is leaving, it is its own line. If it is staying, move it so the photo shows the rack. Do not put the rack inside the basket and call that one item. A rack that does not fit in the basket is still a rack.
+A laundry basket standing beside the rack is not the rack. If the basket is leaving, it is its own line. A stack of laundry baskets, emptied, with the nest tried, is the [laundry-basket note](/blog/laundry-basket-stack-dubai). If a basket is staying, move it so the photo shows the rack. Do not put the rack inside the basket and call that one item. A rack that does not fit in the basket is still a rack.
 
 An iron left on the balcony beside the rack is not part of the rack. If the iron is leaving, it is a small appliance on its own line. This page does not empty an iron and does not open a steam tank. Write “iron, separate” or “iron kept”.
 

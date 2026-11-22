@@ -477,6 +477,30 @@ export const fileImages = {
 /** Newest first. */
 export const filePosts = [
   {
+    slug: "suitcases-after-a-trip-dubai",
+    title: "Suitcases that will not be used again",
+    excerpt: "Empty each case of papers, try the zip, and keep the set as its own line.",
+    publishedAt: "2026-11-22T05:00:05.000Z",
+    cover: "leaving-dubai-checklist-cover",
+    services: ["junk-removal"],
+    seoTitle: "Empty the cases and count the set",
+    seoDescription: "Empty each case of papers, try the zip, and keep the set as its own line.",
+    ogTitle: "The cases, not the list",
+    ogDescription: "Suitcases that will not be used again."
+  },
+  {
+    slug: "laundry-basket-stack-dubai",
+    title: "A stack of laundry baskets",
+    excerpt: "Empty each basket, try the nest, and keep the stack as its own line.",
+    publishedAt: "2026-11-22T05:00:00.000Z",
+    cover: "laundry-room-cover",
+    services: ["junk-removal"],
+    seoTitle: "Empty the baskets and try the nest",
+    seoDescription: "Empty each basket, try the nest, and keep the stack as its own line.",
+    ogTitle: "The stack, not the clothes",
+    ogDescription: "A stack of laundry baskets."
+  },
+  {
     slug: "pet-carrier-removal-dubai",
     title: "A plastic pet carrier in a store",
     excerpt: "Empty the carrier, try the door, and keep one plastic carrier as its own line.",

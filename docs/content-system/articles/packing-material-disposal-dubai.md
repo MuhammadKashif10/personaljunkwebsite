@@ -30,7 +30,7 @@ Wooden crates and pallets need their own description. They can have protruding n
 
 Do not break a crate apart to make it smaller unless you can do it safely and have somewhere to put the loose boards and fixings. A whole crate is often easier to carry than an armful of splintered timber with exposed nails.
 
-Rigid plastic crates left after the unpack, empty or still holding what came out of them, are the [plastic-crate note](/blog/plastic-crates-after-unpacking-dubai). This section stays timber crates and pallets.
+Rigid plastic crates left after the unpack, empty or still holding what came out of them, are the [plastic-crate note](/blog/plastic-crates-after-unpacking-dubai). A stack of laundry baskets is not a crate and not a carton. That stack is the [laundry-basket note](/blog/laundry-basket-stack-dubai). A set of suitcases that will not be used again is not this pile either. That set is the [suitcase note](/blog/suitcases-after-a-trip-dubai). This section stays timber crates and pallets.
 
 ### Items that do not belong in the packaging pile
 

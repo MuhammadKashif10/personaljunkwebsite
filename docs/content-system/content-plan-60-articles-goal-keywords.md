@@ -756,7 +756,7 @@ Slot A was brought forward and set to `PUBLISHED` on 2026-11-20 as C41, after th
 
 ### Day 24 — Sunday 2026-11-22
 
-Slot A was brought forward and set to `PUBLISHED` on 2026-11-21 as A40, after the owner said “Merge and live”, because Day 23 Slot A was already published as C41 and Day 23 still needed a second eligible article after Slot B. Slot B on this day stays unwritten. The 30-day plan’s Day 24 pair stayed `DO NOT WRITE`.
+Slot A was brought forward and set to `PUBLISHED` on 2026-11-21 as A40, after the owner said “Merge and live”, because Day 23 Slot A was already published as C41 and Day 23 still needed a second eligible article after Slot B. Slot B was set to `PUBLISHED` on 2026-11-22 as F27, after the owner said “Merge and live”. The 30-day plan’s Day 24 pair (an exercise bike and a rowing machine) stayed `DO NOT WRITE`. No exercise-bike URL and no rowing-machine URL were opened.
 
 #### Slot A — `PUBLISHED 2026-11-21` — Thin — A40
 
@@ -771,7 +771,7 @@ Brought forward on 2026-11-21. See the slot. Set to `PUBLISHED` on 2026-11-21 af
 - **Why this slot:** Filler. Set to `PUBLISHED` on 2026-11-21 after “Merge and live”. Brought forward from this day, because Day 23 needed a second eligible article. The storage-room guide keeps the whole store. A stroller and a playpen stay on their own URLs.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
-#### Slot B — `NEW — supporting article` — Thin
+#### Slot B — `PUBLISHED 2026-11-22` — Thin — F27
 
 - **Primary keyword:** laundry basket stack dubai
 - **Title:** A stack of laundry baskets
@@ -779,12 +779,16 @@ Brought forward on 2026-11-21. See the slot. Set to `PUBLISHED` on 2026-11-21 af
 - **Suggested URL:** `/blog/laundry-basket-stack-dubai`
 - **Supports targets:** 1, 9
 - **Internal links:** `/services/junk-removal` — anchor: “a trash pickup for the baskets”; `/blog/what-dubai-bins-wont-take`; `/blog/packing-material-disposal-dubai`; `/services/waste-removal`
-- **Why this slot:** Filler.
+- **Why this slot:** Filler. Set to `PUBLISHED` on 2026-11-22 as F27 after “Merge and live”. The bins guide keeps the chute. The packing guide keeps the cartons. A drying rack and an ironing board stay on their own URLs. Clothes are not this page.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
 ### Day 25 — Monday 2026-11-23
 
-#### Slot A — `NEW — supporting article` — Thin
+Slot A was brought forward and set to `PUBLISHED` on 2026-11-22 as A41, after the owner said “Merge and live”, because Day 24 Slot A was already published as A40 and Day 24 still needed a second eligible article after Slot B. Slot B on this day stays unwritten. The 30-day plan’s Day 25 pair (an office partition and a mannequin) stayed `DO NOT WRITE`. No partition URL and no mannequin URL were opened.
+
+#### Slot A — `PUBLISHED 2026-11-22` — Thin — A41
+
+Brought forward on 2026-11-22. See the slot. Set to `PUBLISHED` on 2026-11-22 after “Merge and live”.
 
 - **Primary keyword:** suitcase set after a trip dubai
 - **Title:** Suitcases that will not be used again
@@ -792,7 +796,7 @@ Brought forward on 2026-11-21. See the slot. Set to `PUBLISHED` on 2026-11-21 af
 - **Suggested URL:** `/blog/suitcases-after-a-trip-dubai`
 - **Supports targets:** 1, 3
 - **Internal links:** `/services/junk-removal` — anchor: “collect the cases with other junk”; `/blog/leaving-dubai-clearance-checklist`; `/blog/storage-room-clearance-dubai`; `/blog/packing-material-disposal-dubai`
-- **Why this slot:** Filler beside the leaving-Dubai list.
+- **Why this slot:** Filler beside the leaving-Dubai list. Brought forward and set to `PUBLISHED` on 2026-11-22 as A41 after “Merge and live”. The leaving checklist keeps the departure. The storage-room guide keeps the room. A pet carrier stays on its own URL. Clothes are not this page.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
 #### Slot B — `NEW — supporting article` — Thin

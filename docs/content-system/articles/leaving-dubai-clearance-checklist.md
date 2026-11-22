@@ -57,6 +57,8 @@ When compiling your initial inventory, do not limit yourself to main living room
 - Kitchen cabinetry and pantry shelves: Half-used food containers, expired dry goods, cleaning chemicals, and surplus plastic storage ware.
 - Wardrobe top shelves: Luggage bags, extra bedding, old pillows, and winter garments accumulated over years in the UAE.
 
+A set of suitcases on those shelves that will not be used again, emptied of papers, is the [suitcase note](/blog/suitcases-after-a-trip-dubai). The list of the whole departure stays in this checklist.
+
 ## Three weeks out: Logistics planning and contractor booking
 
 Three weeks before departure is the optimal window to lock in all professional service providers and confirm logistical dates.

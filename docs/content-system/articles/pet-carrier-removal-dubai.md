@@ -14,7 +14,7 @@ A stroller is not a carrier. A stroller has wheels, a handle and a seat. The [st
 
 A playpen is not a carrier. A playpen stands on the floor and is meant to hold a child for a while, not to be carried as a closed box. The [playpen note](/blog/playpen-removal-dubai) is that fold. Do not collapse a playpen under these steps.
 
-A suitcase is not a carrier. A suitcase has a shell for clothes and a zip or a lock, and no animal door. If the object is a suitcase, name it as a suitcase. This page does not empty a case of clothes and call it a carrier.
+A suitcase is not a carrier. A suitcase has a shell for clothes and a zip or a lock, and no animal door. If the object is a suitcase, name it as a suitcase. A set of suitcases that will not be used again, emptied of papers, is the [suitcase note](/blog/suitcases-after-a-trip-dubai). This page does not empty a case of clothes and call it a carrier.
 
 A car seat is not a carrier. It has a harness for a child and fittings for a car. A car seat is not given a page of its own here. Write “car seat” and stop following these steps.
 
