@@ -76,7 +76,7 @@ The picture is a mattress by a bedroom door. It is not a bag of duvets or pillow
 
 The shelf that held the duvets often holds other things you meant to decide later. A spare blanket, a bag of clothes, a boxed gift and a suitcase are four decisions. Make them before the photo, or the photo will make them for you.
 
-A suitcase you are keeping should be closed and moved off the pile. A suitcase you are sending should be empty of documents, medicine and anything you still need, and it should be named as a suitcase. Do not fill it with pillows and call it bedding. The frame of a suitcase is a hard object inside a soft load.
+A suitcase you are keeping should be closed and moved off the pile. A suitcase you are sending should be empty of documents, medicine and anything you still need, and it should be named as a suitcase. A set of cases that will not be used again is the [suitcase note](/blog/suitcases-after-a-trip-dubai). Do not fill it with pillows and call it bedding. The frame of a suitcase is a hard object inside a soft load.
 
 Hangers, a storage box and a torn carton are not bedding either. Leave them out of the duvet bags. If the carton is part of a move, it belongs with the packing sort, not in this note.
 

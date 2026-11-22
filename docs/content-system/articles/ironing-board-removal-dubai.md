@@ -24,7 +24,7 @@ The board was put behind the door because the room had no other gap. The door th
 
 Open the door as far as it will go without forcing the board. If the door hits the board, stop. Do not keep pushing. A hollow door bends, and a leg can scratch the floor or snap.
 
-Look at what else is in that gap. A robe, a pair of shoes, a laundry basket, a hanging rail of clothes. Move what is yours to move, and put it where it is not the board. If a basket of clothes is also leaving, it is its own line. Do not call the gap “the ironing board”.
+Look at what else is in that gap. A robe, a pair of shoes, a laundry basket, a hanging rail of clothes. Move what is yours to move, and put it where it is not the board. If a basket of clothes is also leaving, the clothes are not the board, and they are not a basket note until they are out. A stack of laundry baskets, emptied, with the nest tried, is the [laundry-basket note](/blog/laundry-basket-stack-dubai). Do not call the gap “the ironing board”.
 
 Then see how the board is standing. Leaning, with the legs folded. Standing, with the legs locked open. Lying on its side because it fell. Caught under the bottom of the door. Write that in one line. “Leaning, legs folded, door hits the top end.” “Standing, legs locked, door opens a hand’s width.”
 
