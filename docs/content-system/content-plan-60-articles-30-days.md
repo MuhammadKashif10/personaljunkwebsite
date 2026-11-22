@@ -637,7 +637,7 @@ Read the status before the title. A title on a `DO NOT WRITE` slot names the ref
 
 ### Day 24 — Sunday 2026-11-22
 
-2026-11-21: these two slots stayed `DO NOT WRITE`. No exercise-bike URL and no rowing-machine URL were opened. The goal-keyword calendar’s pet-carrier slot on this day was brought forward and set to `PUBLISHED` on 2026-11-21 as A40, because the goal-keyword Day 23 ironing-board slot was already published. That is not this exercise-bike slot. 2026-11-22: these two slots stayed `DO NOT WRITE`. No exercise-bike URL and no rowing-machine URL were opened. The goal-keyword calendar’s laundry-basket slot on this day, and the next eligible slot, suitcases that will not be used again, were written for review as F27 and A41. That is not this exercise-bike slot and not this rowing-machine slot.
+2026-11-21: these two slots stayed `DO NOT WRITE`. No exercise-bike URL and no rowing-machine URL were opened. The goal-keyword calendar’s pet-carrier slot on this day was brought forward and set to `PUBLISHED` on 2026-11-21 as A40, because the goal-keyword Day 23 ironing-board slot was already published. That is not this exercise-bike slot. 2026-11-22: these two slots stayed `DO NOT WRITE`. No exercise-bike URL and no rowing-machine URL were opened. The goal-keyword calendar’s laundry-basket slot on this day, and the next eligible slot, suitcases that will not be used again, are `PUBLISHED` in the repository record as F27 and A41, dated 2026-11-22, after “Merge and live” on 2026-11-22. That is not this exercise-bike slot and not this rowing-machine slot.
 
 #### Slot A — `DO NOT WRITE`
 
@@ -661,7 +661,7 @@ Read the status before the title. A title on a `DO NOT WRITE` slot names the ref
 
 ### Day 25 — Monday 2026-11-23
 
-2026-11-22: these two slots stayed `DO NOT WRITE`. No office-partition URL and no mannequin URL were opened. The goal-keyword calendar’s suitcase slot on this day was brought forward and written for review as A41, because the goal-keyword Day 24 pet-carrier slot was already published. That is not this partition slot.
+2026-11-22: these two slots stayed `DO NOT WRITE`. No office-partition URL and no mannequin URL were opened. The goal-keyword calendar’s suitcase slot on this day was brought forward and set to `PUBLISHED` on 2026-11-22 as A41, because the goal-keyword Day 24 pet-carrier slot was already published. That is not this partition slot.
 
 #### Slot A — `DO NOT WRITE`
 

@@ -447,8 +447,8 @@ The six original, unbranded editorial images below were generated for #22, #32 a
 | #C41 ironing-board-removal-dubai | cover, body | `COMPLETE` — existing wardrobe cover reused for both 2026-11-20 (published repository post). The image is a wooden wardrobe with padded corners beside a bedroom doorway. It does not show an ironing board, a cover, a leg, a latch or a door stopped by a board. |
 | #C42 drying-rack-removal-dubai | cover, body | `COMPLETE` — existing laundry-room cover reused for both 2026-11-21 (published repository post). The image is a washer and a dryer in a utility room, with a sink and hose connections. It does not show a drying rack, a wing, a peg, a railing or a balcony door. |
 | #A40 pet-carrier-removal-dubai | cover, body | `COMPLETE` — existing storage-room cover reused for both 2026-11-21 (published repository post). The image is shelves, boxes, a rolled rug and a worn table in a storage room. It does not show a pet carrier, a grille, a latch, bedding or a bowl. |
-| #F27 laundry-basket-stack-dubai | cover, body | `COMPLETE` — existing laundry-room cover reused for both 2026-11-22 (`REVIEW`, not `PUBLISHED`). The image is a washer and a dryer in a utility room, with a sink and hose connections. It does not show a laundry basket, a handle, a lid, a nest or a stack. |
-| #A41 suitcases-after-a-trip-dubai | cover, body | `COMPLETE` — existing leaving-checklist cover reused for both 2026-11-22 (`REVIEW`, not `PUBLISHED`). The image is a checklist notebook and stacked moving boxes. It does not show a suitcase, a zip, a wheel, a lock or a handle. |
+| #F27 laundry-basket-stack-dubai | cover, body | `COMPLETE` — existing laundry-room cover reused for both 2026-11-22 (published repository post). The image is a washer and a dryer in a utility room, with a sink and hose connections. It does not show a laundry basket, a handle, a lid, a nest or a stack. |
+| #A41 suitcases-after-a-trip-dubai | cover, body | `COMPLETE` — existing leaving-checklist cover reused for both 2026-11-22 (published repository post). The image is a checklist notebook and stacked moving boxes. It does not show a suitcase, a zip, a wheel, a lock or a handle. |
 | #N-17 water-heater-removal-dubai | cover, OG, body | `COMPLETE` — existing media reused 2026-10-16 (Media 73, 77) · a water-heater image would make a better future cover |
 | #6 end-of-tenancy | body | `NEEDED` |
 | #11 junk-gone-today | body | `NEEDED` |
@@ -488,6 +488,7 @@ The six original, unbranded editorial images below were generated for #22, #32 a
 
 | Date | Change |
 |---|---|
+| 2026-11-22 | Set the F27 and A41 image rows to `PUBLISHED` repository posts after “Merge and live”. No generation, download or upload. The same inspected images remain. |
 | 2026-11-22 | Reused `laundry-room-cover` for F27 and `leaving-dubai-checklist-cover` for A41, each as cover and body. No generation, download or upload. The basket image is a washer and a dryer in a utility room, not a laundry basket. The suitcase image is a checklist notebook and stacked moving boxes, not a suitcase. Both articles are `REVIEW`, not `PUBLISHED`. |
 | 2026-11-21 | Set the C42 and A40 image rows to `PUBLISHED` repository posts after “Merge and live”. No generation, download or upload. The same inspected images remain. |
 | 2026-11-21 | Reused `laundry-room-cover` for C42 and `article-storage-room-clearance-dubai-cover` for A40, each as cover and body. No generation, download or upload. The rack image is a washer and a dryer in a utility room, not a drying rack. The carrier image is a storage room of shelves, boxes, a rug and a table, not a pet carrier. Both articles are `REVIEW`, not `PUBLISHED`. |
