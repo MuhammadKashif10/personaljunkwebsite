@@ -6,7 +6,7 @@ This guide is a practical clearance plan, not a statement of your contractual ob
 
 Walk through the property with three categories: taking with you, leaving with permission, and removing. A fourth category, undecided, is useful during planning but should be resolved before collection. Photograph each room so that your list describes actual items rather than a rough impression of how much furniture you own.
 
-This distinction matters when moving and clearance happen close together. A suitcase beside an unwanted wardrobe could be packed belongings rather than rubbish. A chair placed near the entrance might be waiting for a mover. Separate these groups physically where possible, and use clear labels when they have to share a room.
+This distinction matters when moving and clearance happen close together. A suitcase beside an unwanted wardrobe could be packed belongings rather than rubbish. A chair placed near the entrance might be waiting for a mover. Separate these groups physically where possible, and use clear labels when they have to share a room. A bathroom scale and a small bin, both standing free, are the [bathroom-scale note](/blog/bathroom-scale-and-bin-dubai). The handover order stays in this guide. A toilet and a sink are not that note.
 
 ### Check the inventory and any agreed items
 

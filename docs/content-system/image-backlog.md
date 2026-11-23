@@ -449,6 +449,8 @@ The six original, unbranded editorial images below were generated for #22, #32 a
 | #A40 pet-carrier-removal-dubai | cover, body | `COMPLETE` — existing storage-room cover reused for both 2026-11-21 (published repository post). The image is shelves, boxes, a rolled rug and a worn table in a storage room. It does not show a pet carrier, a grille, a latch, bedding or a bowl. |
 | #F27 laundry-basket-stack-dubai | cover, body | `COMPLETE` — existing laundry-room cover reused for both 2026-11-22 (published repository post). The image is a washer and a dryer in a utility room, with a sink and hose connections. It does not show a laundry basket, a handle, a lid, a nest or a stack. |
 | #A41 suitcases-after-a-trip-dubai | cover, body | `COMPLETE` — existing leaving-checklist cover reused for both 2026-11-22 (published repository post). The image is a checklist notebook and stacked moving boxes. It does not show a suitcase, a zip, a wheel, a lock or a handle. |
+| #C43 magazine-file-holder-dubai | cover, body | `COMPLETE` — existing office-floor cover reused for both 2026-11-23 (published repository post). The image is desks, task chairs and cabinets in an office, with a clear corridor. It does not show a magazine file, a lip, a pocket, a magazine or a home desk. |
+| #A42 bathroom-scale-and-bin-dubai | cover, body | `COMPLETE` — existing acceptance-guide cover reused for both 2026-11-23 (published repository post). The image is a sofa, stacked boxes and an appliance beside an open doorway. It does not show a bathroom scale, a bin, a pedal, a lid or a fixture. |
 | #N-17 water-heater-removal-dubai | cover, OG, body | `COMPLETE` — existing media reused 2026-10-16 (Media 73, 77) · a water-heater image would make a better future cover |
 | #6 end-of-tenancy | body | `NEEDED` |
 | #11 junk-gone-today | body | `NEEDED` |
@@ -488,6 +490,8 @@ The six original, unbranded editorial images below were generated for #22, #32 a
 
 | Date | Change |
 |---|---|
+| 2026-11-23 | Set the C43 and A42 image rows to `PUBLISHED` repository posts after “Merge and live”. No generation, download or upload. The same inspected images remain. |
+| 2026-11-23 | Reused `office-furniture-cover` for C43 and `what-we-take-cover` for A42, each as cover and body. No generation, download or upload. The holder image is a workplace floor of desks, task chairs and cabinets, not a magazine file. The scale image is a sofa, boxes and an appliance by a door, not a bathroom scale or a bin. Both articles are `REVIEW`, not `PUBLISHED`. |
 | 2026-11-22 | Set the F27 and A41 image rows to `PUBLISHED` repository posts after “Merge and live”. No generation, download or upload. The same inspected images remain. |
 | 2026-11-22 | Reused `laundry-room-cover` for F27 and `leaving-dubai-checklist-cover` for A41, each as cover and body. No generation, download or upload. The basket image is a washer and a dryer in a utility room, not a laundry basket. The suitcase image is a checklist notebook and stacked moving boxes, not a suitcase. Both articles are `REVIEW`, not `PUBLISHED`. |
 | 2026-11-21 | Set the C42 and A40 image rows to `PUBLISHED` repository posts after “Merge and live”. No generation, download or upload. The same inspected images remain. |

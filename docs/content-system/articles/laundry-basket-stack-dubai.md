@@ -14,7 +14,7 @@ An ironing board is not a basket. A board has a long top, a cover and legs. The 
 
 A soft bag, a tote or a sack of clothes is not a basket. Write “bag of clothes” and keep it off these steps. This page does not tell you where clothes go. If the clothes are leaving, they are not renamed as a basket. If they are staying, they leave the photograph.
 
-A pedal bin, a bathroom bin or a swing bin is not a laundry basket. It is a bin. Empty it if you are discarding it, and name it as a bin. Do not follow the nest steps below as if a foot pedal were a laundry handle.
+A pedal bin, a bathroom bin or a swing bin is not a laundry basket. It is a bin. Empty it if you are discarding it, and name it as a bin. A bathroom scale beside that bin is the [bathroom-scale note](/blog/bathroom-scale-and-bin-dubai). Do not follow the nest steps below as if a foot pedal were a laundry handle.
 
 A basket that is screwed to a wall, or built into a cupboard as a pull-out frame on rails, is a fitting. Write “fixed basket, staying” and do not unscrew the cupboard. This note starts when the basket already stands on the floor, or when it lifts off a rail by the movement it was built with. If it will not lift off, leave it and write “will not lift off the rail”.
 
