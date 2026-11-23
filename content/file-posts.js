@@ -477,6 +477,30 @@ export const fileImages = {
 /** Newest first. */
 export const filePosts = [
   {
+    slug: "bathroom-scale-and-bin-dubai",
+    title: "A bathroom scale and a small bin",
+    excerpt: "Empty the bin, leave the case closed, and keep the scale and the bin as two lines.",
+    publishedAt: "2026-11-23T05:00:05.000Z",
+    cover: "what-we-take-cover",
+    services: ["junk-removal"],
+    seoTitle: "Empty the bin and leave the case closed",
+    seoDescription: "Empty the bin, leave the case closed, and keep the scale and the bin as two lines.",
+    ogTitle: "The scale, not the sink",
+    ogDescription: "A bathroom scale and a small bin."
+  },
+  {
+    slug: "magazine-file-holder-dubai",
+    title: "A magazine file from a home office",
+    excerpt: "Empty the holder, say whether it stands free, and keep one magazine file as its own line.",
+    publishedAt: "2026-11-23T05:00:00.000Z",
+    cover: "office-furniture-cover",
+    services: ["furniture-removal"],
+    seoTitle: "Empty the holder and say if it stands free",
+    seoDescription: "Empty the holder, say whether it stands free, and keep one magazine file as its own line.",
+    ogTitle: "The holder, not the desk",
+    ogDescription: "A magazine file from a home office."
+  },
+  {
     slug: "suitcases-after-a-trip-dubai",
     title: "Suitcases that will not be used again",
     excerpt: "Empty each case of papers, try the zip, and keep the set as its own line.",

@@ -1,6 +1,6 @@
 Office waste collection should begin by defining whether the job is a one-off clearance or an ongoing operational waste service. Freeze the one-off inventory, keep routine bin waste and controlled materials separate, obtain asset and data approval, and schedule the collection around the building’s confirmed loading route.
 
-A removal crew can assess loose furniture, packaging and approved office contents when the quantity is visible. That does not automatically mean the same booking covers recurring bins, confidential destruction, hazardous material, live electrical work or construction debris.
+A removal crew can assess loose furniture, packaging and approved office contents when the quantity is visible. That does not automatically mean the same booking covers recurring bins, confidential destruction, hazardous material, live electrical work or construction debris. One magazine file from a home office is not this office load. The [magazine-file note](/blog/magazine-file-holder-dubai) is that holder.
 
 ## Define the collection before counting it
 
