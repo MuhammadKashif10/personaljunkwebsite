@@ -784,7 +784,7 @@ Brought forward on 2026-11-21. See the slot. Set to `PUBLISHED` on 2026-11-21 af
 
 ### Day 25 — Monday 2026-11-23
 
-Slot A was brought forward and set to `PUBLISHED` on 2026-11-22 as A41, after the owner said “Merge and live”, because Day 24 Slot A was already published as A40 and Day 24 still needed a second eligible article after Slot B. Slot B was written for review on 2026-11-23 as C43. The next eligible slot, Day 26 Slot A, was brought forward the same day as A42 so this day still had two articles. The 30-day plan’s Day 25 pair (an office partition and a mannequin) stayed `DO NOT WRITE`. No partition URL and no mannequin URL were opened.
+Slot A was brought forward and set to `PUBLISHED` on 2026-11-22 as A41, after the owner said “Merge and live”, because Day 24 Slot A was already published as A40 and Day 24 still needed a second eligible article after Slot B. Slot B was set to `PUBLISHED` on 2026-11-23 as C43, after the owner said “Merge and live”. The next eligible slot, Day 26 Slot A, was brought forward and set to `PUBLISHED` on 2026-11-23 as A42, after the owner said “Merge and live”, so this day still had two articles. The 30-day plan’s Day 25 pair (an office partition and a mannequin) stayed `DO NOT WRITE`. No partition URL and no mannequin URL were opened.
 
 #### Slot A — `PUBLISHED 2026-11-22` — Thin — A41
 
@@ -799,7 +799,7 @@ Brought forward on 2026-11-22. See the slot. Set to `PUBLISHED` on 2026-11-22 af
 - **Why this slot:** Filler beside the leaving-Dubai list. Brought forward and set to `PUBLISHED` on 2026-11-22 as A41 after “Merge and live”. The leaving checklist keeps the departure. The storage-room guide keeps the room. A pet carrier stays on its own URL. Clothes are not this page.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
-#### Slot B — `REVIEW 2026-11-23` — Thin — C43
+#### Slot B — `PUBLISHED 2026-11-23` — Thin — C43
 
 - **Primary keyword:** magazine file holder dubai
 - **Title:** A magazine file from a home office
@@ -807,16 +807,16 @@ Brought forward on 2026-11-22. See the slot. Set to `PUBLISHED` on 2026-11-22 af
 - **Suggested URL:** `/blog/magazine-file-holder-dubai`
 - **Supports targets:** 5, 1
 - **Internal links:** `/services/furniture-removal` — anchor: “a small furniture piece”; `/blog/office-desk-removal-dubai`; `/blog/office-waste-collection-dubai`; `/services/junk-removal`
-- **Why this slot:** Filler. Written for review on 2026-11-23 as C43. The standing-desk article already exists, so this note links it. The workplace desk and the one-off office load stay on their own URLs. A filing cabinet, a bookshelf, a partition and a mannequin are not given a URL. Status is `REVIEW`, not `PUBLISHED`.
+- **Why this slot:** Filler. Set to `PUBLISHED` on 2026-11-23 as C43 after “Merge and live”. The standing-desk article already exists, so this note links it. The workplace desk and the one-off office load stay on their own URLs. A filing cabinet, a bookshelf, a partition and a mannequin are not given a URL.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
 ### Day 26 — Tuesday 2026-11-24
 
-Slot A was brought forward and written for review on 2026-11-23 as A42, because Day 25 Slot A was already published as A41 and Day 25 still needed a second eligible article after Slot B. Slot B on this day stays unwritten.
+Slot A was brought forward and set to `PUBLISHED` on 2026-11-23 as A42, after the owner said “Merge and live”, because Day 25 Slot A was already published as A41 and Day 25 still needed a second eligible article after Slot B. Slot B on this day stays unwritten.
 
-#### Slot A — `REVIEW 2026-11-23` — Thin — A42
+#### Slot A — `PUBLISHED 2026-11-23` — Thin — A42
 
-Brought forward on 2026-11-23. See the slot. Status is `REVIEW`, not `PUBLISHED`.
+Brought forward on 2026-11-23. See the slot. Set to `PUBLISHED` on 2026-11-23 after “Merge and live”.
 
 - **Primary keyword:** bathroom scale and bin dubai
 - **Title:** A bathroom scale and a small bin
@@ -824,7 +824,7 @@ Brought forward on 2026-11-23. See the slot. Status is `REVIEW`, not `PUBLISHED`
 - **Suggested URL:** `/blog/bathroom-scale-and-bin-dubai`
 - **Supports targets:** 1, 9
 - **Internal links:** `/services/junk-removal` — anchor: “ordinary junk, not a fixture”; `/blog/what-we-take-dubai`; `/blog/end-of-tenancy-clearance-dubai`; `/services/waste-removal`
-- **Why this slot:** Filler. Brought forward and written for review on 2026-11-23 as A42. The acceptance list and the handover order stay on their own URLs. A toilet, a sink and a plumbed rail are not this page. A mirror is not given a URL.
+- **Why this slot:** Filler. Brought forward and set to `PUBLISHED` on 2026-11-23 as A42 after “Merge and live”. The acceptance list and the handover order stay on their own URLs. A toilet, a sink and a plumbed rail are not this page. A mirror is not given a URL.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
 #### Slot B — `NEW — supporting article` — Thin
