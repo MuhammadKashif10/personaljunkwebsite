@@ -2,7 +2,7 @@ Donating furniture in Dubai works when an item is clean, structurally sound and 
 
 The challenge is that donation is an act of reuse, not a waste clearance service. Charities and community recipients only take furniture they can put to immediate, safe use. If a piece has broken joints, torn upholstery, water damage or missing hardware, it will be rejected at the door. If a private recipient promises to collect an item but fails to show up before your tenancy inspection, an abandoned piece can result in landlord deductions from your security deposit.
 
-This guide outlines where to donate furniture in Dubai, how charity collections and community transfers operate, what criteria decide whether an item is genuinely donatable, and what practical steps to take when donation is not an option.
+This guide outlines where to donate furniture in Dubai, how charity collections and community transfers operate, what criteria decide whether an item is genuinely donatable, and what practical steps to take when donation is not an option. A guitar is not a dining set, a sofa or a wardrobe, and it is not a piano. If the object is one guitar, the case and the neck are the [guitar note](/blog/guitar-removal-dubai). This page stays the question of passing furniture on.
 
 ## What usable furniture actually means
 

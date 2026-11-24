@@ -812,7 +812,7 @@ Brought forward on 2026-11-22. See the slot. Set to `PUBLISHED` on 2026-11-22 af
 
 ### Day 26 — Tuesday 2026-11-24
 
-Slot A was brought forward and set to `PUBLISHED` on 2026-11-23 as A42, after the owner said “Merge and live”, because Day 25 Slot A was already published as A41 and Day 25 still needed a second eligible article after Slot B. Slot B on this day stays unwritten.
+Slot A was brought forward and set to `PUBLISHED` on 2026-11-23 as A42, after the owner said “Merge and live”, because Day 25 Slot A was already published as A41 and Day 25 still needed a second eligible article after Slot B. Slot B was set to `PUBLISHED` on 2026-11-24 as E40, after the owner said “Merge and live”. The next eligible slot, Day 27 Slot A, was brought forward and set to `PUBLISHED` on 2026-11-24 as A43, after the owner said “Merge and live”, so this day still had two articles. The 30-day plan’s Day 26 pair (a pallet and tiles) stayed `DO NOT WRITE`. No pallet URL and no tile URL were opened.
 
 #### Slot A — `PUBLISHED 2026-11-23` — Thin — A42
 
@@ -827,7 +827,7 @@ Brought forward on 2026-11-23. See the slot. Set to `PUBLISHED` on 2026-11-23 af
 - **Why this slot:** Filler. Brought forward and set to `PUBLISHED` on 2026-11-23 as A42 after “Merge and live”. The acceptance list and the handover order stay on their own URLs. A toilet, a sink and a plumbed rail are not this page. A mirror is not given a URL.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
-#### Slot B — `NEW — supporting article` — Thin
+#### Slot B — `PUBLISHED 2026-11-24` — Thin — E40
 
 - **Primary keyword:** sewing machine removal dubai
 - **Title:** A sewing machine in its case
@@ -835,12 +835,16 @@ Brought forward on 2026-11-23. See the slot. Set to `PUBLISHED` on 2026-11-23 af
 - **Suggested URL:** `/blog/sewing-machine-removal-dubai`
 - **Supports targets:** 1
 - **Internal links:** `/services/junk-removal` — anchor: “add the machine to the pickup”; `/blog/old-appliance-removal-dubai`; `/blog/e-waste-disposal-dubai`; `/blog/what-we-take-dubai`
-- **Why this slot:** Filler.
+- **Why this slot:** Filler. Set to `PUBLISHED` on 2026-11-24 as E40 after “Merge and live”. The old-appliance guide keeps unlike machines. The e-waste guide keeps the routes. The acceptance list stays on its own URL. A vacuum, a pedestal fan, a dehumidifier and a pantry microwave stay on their own URLs. A ceiling fan is not this page. An overlocker is not given a URL. A sewing cabinet is not given a URL.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
 ### Day 27 — Wednesday 2026-11-25
 
-#### Slot A — `NEW — supporting article` — Thin
+Slot A was brought forward and set to `PUBLISHED` on 2026-11-24 as A43, after the owner said “Merge and live”, because Day 26 Slot A was already published as A42 and Day 26 still needed a second eligible article after Slot B. Slot B on this day stays unwritten. The 30-day plan’s Day 27 pair (previous-tenant furniture and scrap metal) stayed `DO NOT WRITE`.
+
+#### Slot A — `PUBLISHED 2026-11-24` — Thin — A43
+
+Brought forward on 2026-11-24. See the slot. Set to `PUBLISHED` on 2026-11-24 after “Merge and live”.
 
 - **Primary keyword:** guitar removal dubai
 - **Title:** A guitar that is not a piano
@@ -848,7 +852,7 @@ Brought forward on 2026-11-23. See the slot. Set to `PUBLISHED` on 2026-11-23 af
 - **Suggested URL:** `/blog/guitar-removal-dubai`
 - **Supports targets:** 1, 5
 - **Internal links:** `/services/junk-removal` — anchor: “a normal junk item”; `/blog/bulky-item-pickup-dubai`; `/blog/donate-furniture-dubai`; `/services/furniture-removal`
-- **Why this slot:** Filler. Do not reuse this slot for piano removal.
+- **Why this slot:** Filler. Do not reuse this slot for piano removal. Brought forward and set to `PUBLISHED` on 2026-11-24 as A43 after “Merge and live”. The drum-kit note keeps the kit. The keyboard note keeps the keyboard and the amplifier. The bulky-item note keeps the photo and the route. The donation guide keeps passing furniture on. A piano is not given a URL. A ukulele, a bass and a cello are not given a URL.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
 #### Slot B — `NEW — supporting article` — Thin

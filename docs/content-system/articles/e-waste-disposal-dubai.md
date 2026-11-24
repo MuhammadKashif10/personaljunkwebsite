@@ -4,7 +4,7 @@ For one large screen, the [TV disposal guide](/blog/tv-disposal-dubai) covers te
 
 ## What counts as e-waste
 
-E-waste is electrical or electronic equipment that has reached the end of its use. In a household, that means things like old phones, laptops, tablets, monitors, televisions, printers, routers, chargers, cables, small kitchen appliances and the larger appliances that plug in or run on batteries. One vacuum cleaner from a cupboard is one machine, not a route explanation. The [vacuum note](/blog/vacuum-cleaner-removal-dubai) empties the dust and decides the hose. This article keeps the routes.
+E-waste is electrical or electronic equipment that has reached the end of its use. In a household, that means things like old phones, laptops, tablets, monitors, televisions, printers, routers, chargers, cables, small kitchen appliances and the larger appliances that plug in or run on batteries. One vacuum cleaner from a cupboard is one machine, not a route explanation. The [vacuum note](/blog/vacuum-cleaner-removal-dubai) empties the dust and decides the hose. One sewing machine in its case is one machine, not a route explanation. The [sewing-machine note](/blog/sewing-machine-removal-dubai) empties the bobbin area and leaves the case closed. This article keeps the routes.
 
 Dubai Municipality’s [Technical Guideline No. 5 on waste classification](https://dmpmedia.dm.gov.ae/uploads/2022/01/Technical-Guidelines-no.5-Waste-Classification.pdf) treats electrical and electronic equipment as a separate category of special waste within household waste, alongside household hazardous waste, white goods, bulky items and tyres.
 

@@ -477,6 +477,30 @@ export const fileImages = {
 /** Newest first. */
 export const filePosts = [
   {
+    slug: "guitar-removal-dubai",
+    title: "A guitar that is not a piano",
+    excerpt: "Empty the case of small parts, leave the neck whole, and keep one guitar as its own line.",
+    publishedAt: "2026-11-24T05:00:05.000Z",
+    cover: "old-furniture-disposal-cover",
+    services: ["junk-removal"],
+    seoTitle: "Empty the guitar case and leave the neck whole",
+    seoDescription: "Empty the case of small parts, leave the neck whole, and keep one guitar as its own line.",
+    ogTitle: "The guitar, not a piano",
+    ogDescription: "A guitar that is not a piano."
+  },
+  {
+    slug: "sewing-machine-removal-dubai",
+    title: "A sewing machine in its case",
+    excerpt: "Empty the bobbin area, leave the case closed, and keep one sewing machine as its own line.",
+    publishedAt: "2026-11-24T05:00:00.000Z",
+    cover: "fridge-disposal-cover",
+    services: ["junk-removal"],
+    seoTitle: "Empty the bobbin area and leave the case closed",
+    seoDescription: "Empty the bobbin area, leave the case closed, and keep one sewing machine as its own line.",
+    ogTitle: "The case, not the cupboard",
+    ogDescription: "A sewing machine in its case."
+  },
+  {
     slug: "bathroom-scale-and-bin-dubai",
     title: "A bathroom scale and a small bin",
     excerpt: "Empty the bin, leave the case closed, and keep the scale and the bin as two lines.",

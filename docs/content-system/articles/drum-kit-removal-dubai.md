@@ -12,7 +12,7 @@ One line that says “drum kit” without that count is incomplete. Same visit i
 
 A piano is not this page. Do not describe a piano, an upright, or a keyboard built into a piano cabinet as this job. This note does not confirm or refuse a piano. It stops a piano being booked under the name of a drum kit.
 
-A guitar, a musical keyboard, and a small amplifier are other objects. A keyboard and a small amplifier have their own note. This page does not become that pair, and it does not become a guitar guide. If a guitar is also leaving, give it its own line and keep it out of a drum bag. If the only things leaving are this kit, say that, so a second instrument is not assumed.
+A guitar, a musical keyboard, and a small amplifier are other objects. A keyboard and a small amplifier have their own note. One guitar, with the case emptied and the neck left whole, is the [guitar note](/blog/guitar-removal-dubai). This page does not become that pair, and it does not become that guitar. If a guitar is also leaving, give it its own line and keep it out of a drum bag. If the only things leaving are this kit, say that, so a second instrument is not assumed.
 
 A single practice pad, a pair of sticks, and a folder of sheet music are small items. Bag them if they are leaving, and label the bag. They are not the kit. Do not put sticks inside a bass drum to keep them together. Look in every shell before you call it empty. A shell you have not looked in is not empty.
 
