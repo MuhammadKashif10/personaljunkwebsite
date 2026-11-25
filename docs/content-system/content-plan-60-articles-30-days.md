@@ -709,7 +709,7 @@ Read the status before the title. A title on a `DO NOT WRITE` slot names the ref
 
 ### Day 27 — Wednesday 2026-11-25
 
-2026-11-25: these two slots stayed `DO NOT WRITE`. No previous-tenant URL and no scrap-metal URL were opened. The goal-keyword calendar’s cooler-box slot on this day, and the next eligible slot, a hose reel by a villa tap, are `REVIEW` in the repository record as A44 and G27. They are not `PUBLISHED`. That is not this previous-tenant slot and not this scrap-metal slot.
+2026-11-25: these two slots stayed `DO NOT WRITE`. No previous-tenant URL and no scrap-metal URL were opened. The goal-keyword calendar’s cooler-box slot on this day, and the next eligible slot, a hose reel by a villa tap, are `PUBLISHED` in the repository record as A44 and G27, dated 2026-11-25, after “Merge and live” on 2026-11-25. That is not this previous-tenant slot and not this scrap-metal slot.
 
 #### Slot A — `DO NOT WRITE`
 
@@ -733,7 +733,7 @@ Read the status before the title. A title on a `DO NOT WRITE` slot names the ref
 
 ### Day 28 — Thursday 2026-11-26
 
-2026-11-25: these two slots stayed `DO NOT WRITE`. No clothes URL and no tyre URL were opened. The goal-keyword calendar’s hose-reel slot on this day was brought forward and written for review as G27, because the goal-keyword Day 27 guitar slot was already published. That is not this clothes slot and not this tyre slot.
+2026-11-25: these two slots stayed `DO NOT WRITE`. No clothes URL and no tyre URL were opened. The goal-keyword calendar’s hose-reel slot on this day was brought forward and set to `PUBLISHED` on 2026-11-25 as G27, after “Merge and live”, because the goal-keyword Day 27 guitar slot was already published. That is not this clothes slot and not this tyre slot.
 
 #### Slot A — `DO NOT WRITE`
 
