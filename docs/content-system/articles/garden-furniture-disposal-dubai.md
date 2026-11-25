@@ -82,4 +82,4 @@ When should I book around a new delivery? Allow a margin between removal and del
 
 Does a clear-out include cleaning the patio? A removal booking clears the agreed items. It should not be assumed to include washing paving, repairing planters, treating rust marks or restoring a garden. If handover standards matter, schedule any cleaning or repair after the furniture leaves. Photograph the clear space so you can see what work remains and avoid confusing removal with property maintenance.
 
-If the furniture is only one part of a larger outdoor load, the [villa-garden waste removal guide](/blog/villa-garden-waste-removal-dubai) shows how to inventory every garden zone and keep cuttings, soil, pots and furniture as separate groups.
+A hose reel by the tap is not a chair and not a pile of cuttings. The [hose-reel note](/blog/garden-hose-reel-removal-dubai) drains the hose and leaves the tap on the wall. If the furniture is only one part of a larger outdoor load, the [villa-garden waste removal guide](/blog/villa-garden-waste-removal-dubai) shows how to inventory every garden zone and keep cuttings, soil, pots and furniture as separate groups.

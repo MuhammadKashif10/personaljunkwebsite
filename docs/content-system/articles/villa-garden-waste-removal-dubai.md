@@ -14,7 +14,7 @@ Create one inventory for all zones. For each area, record what is leaving, how i
 - Pool terrace: a weathered table, four chairs and two damaged cushions.
 - Utility yard: empty nursery trays and irrigation offcuts kept apart from plants.
 
-Do not combine those details into “one villa garden.” The zone list lets the property contact check that nothing has been missed and lets the removal provider see which parts of the load are light, dense, awkward or unrelated to green waste.
+One hose reel by a tap, drained, is the [hose-reel note](/blog/garden-hose-reel-removal-dubai). The zone list stays on this page. Do not combine those details into “one villa garden.” The zone list lets the property contact check that nothing has been missed and lets the removal provider see which parts of the load are light, dense, awkward or unrelated to green waste.
 
 ### Decide the collection boundary
 

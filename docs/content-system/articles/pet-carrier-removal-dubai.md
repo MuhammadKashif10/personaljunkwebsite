@@ -1,6 +1,6 @@
 The item is one plastic pet carrier in a store. Empty it, try the door it already has, and keep it as one line. That is the job. The rest of the store is not. A stroller in the hall is not. A live animal is not a line on this page.
 
-This note is the carrier. A packed apartment store, with shelves, boxes and a path to the door, is the [storage-room guide](/blog/storage-room-clearance-dubai). What to have ready before a crew arrives is the [arrival check](/blog/before-the-crew-arrives-dubai). What a household load can include, when the carrier rides with other things, is the [acceptance list](/blog/what-we-take-dubai). Come back here when the question is one plastic carrier, the door, and what is still inside it.
+A cooler box in the same store is not this carrier. The [cooler-box note](/blog/cooler-box-removal-dubai) is that box. This note is the carrier. A packed apartment store, with shelves, boxes and a path to the door, is the [storage-room guide](/blog/storage-room-clearance-dubai). What to have ready before a crew arrives is the [arrival check](/blog/before-the-crew-arrives-dubai). What a household load can include, when the carrier rides with other things, is the [acceptance list](/blog/what-we-take-dubai). Come back here when the question is one plastic carrier, the door, and what is still inside it.
 
 ## Make sure it is a plastic pet carrier
 
