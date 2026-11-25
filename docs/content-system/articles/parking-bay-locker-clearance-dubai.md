@@ -46,7 +46,7 @@ Ask where a vehicle is allowed to stop. If the building has given you a height l
 
 The drawing is an apartment plan with a clear path to a lift. It is a reminder to record a path. It is not a picture of your locker, and it does not show a parking level. Your photo still has to show the open locker, the level, and the tightest point between that door and the vehicle.
 
-Measure the locker door as well as the piece. A cage can be wider than its opening once the door is swung, or narrower because a parked car sits beside the swing. Record the opening you can actually use, not the width of the bay painted on the floor. If a pillar, a hose reel or a low beam crosses the path, photograph it and give the height you measured. If you could not measure, say that.
+Measure the locker door as well as the piece. A cage can be wider than its opening once the door is swung, or narrower because a parked car sits beside the swing. Record the opening you can actually use, not the width of the bay painted on the floor. If a pillar, a hose reel or a low beam crosses the path, photograph it and give the height you measured. That reel, if it is fixed in the bay, stays part of the path. A garden hose reel by a villa tap is the [hose-reel note](/blog/garden-hose-reel-removal-dubai). If you could not measure, say that.
 
 A ramp between parking levels changes the carry even when the distance looks short on a plan. Say whether the ramp is the walking route, and whether it is shared with moving cars. Do not stand a mattress on the ramp while you go back for a second item. The load stays in the locker, or in a space the building has named, until the vehicle is in the place it is allowed to wait.
 

@@ -840,7 +840,7 @@ Brought forward on 2026-11-23. See the slot. Set to `PUBLISHED` on 2026-11-23 af
 
 ### Day 27 — Wednesday 2026-11-25
 
-Slot A was brought forward and set to `PUBLISHED` on 2026-11-24 as A43, after the owner said “Merge and live”, because Day 26 Slot A was already published as A42 and Day 26 still needed a second eligible article after Slot B. Slot B on this day stays unwritten. The 30-day plan’s Day 27 pair (previous-tenant furniture and scrap metal) stayed `DO NOT WRITE`.
+Slot A was brought forward and set to `PUBLISHED` on 2026-11-24 as A43, after the owner said “Merge and live”, because Day 26 Slot A was already published as A42 and Day 26 still needed a second eligible article after Slot B. Slot B was set to `PUBLISHED` on 2026-11-25 as A44, after the owner said “Merge and live”. The next eligible slot, Day 28 Slot A, was brought forward and set to `PUBLISHED` on 2026-11-25 as G27, after the owner said “Merge and live”, so this day still had two articles. The 30-day plan’s Day 27 pair (previous-tenant furniture and scrap metal) stayed `DO NOT WRITE`. No previous-tenant URL and no scrap-metal URL were opened.
 
 #### Slot A — `PUBLISHED 2026-11-24` — Thin — A43
 
@@ -855,7 +855,7 @@ Brought forward on 2026-11-24. See the slot. Set to `PUBLISHED` on 2026-11-24 af
 - **Why this slot:** Filler. Do not reuse this slot for piano removal. Brought forward and set to `PUBLISHED` on 2026-11-24 as A43 after “Merge and live”. The drum-kit note keeps the kit. The keyboard note keeps the keyboard and the amplifier. The bulky-item note keeps the photo and the route. The donation guide keeps passing furniture on. A piano is not given a URL. A ukulele, a bass and a cello are not given a URL.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
-#### Slot B — `NEW — supporting article` — Thin
+#### Slot B — `PUBLISHED 2026-11-25` — Thin — A44
 
 - **Primary keyword:** cooler box removal dubai
 - **Title:** A cooler box from a store room
@@ -863,12 +863,16 @@ Brought forward on 2026-11-24. See the slot. Set to `PUBLISHED` on 2026-11-24 af
 - **Suggested URL:** `/blog/cooler-box-removal-dubai`
 - **Supports targets:** 1
 - **Internal links:** `/services/junk-removal` — anchor: “include the box”; `/blog/storage-room-clearance-dubai`; `/blog/what-we-take-dubai`; `/blog/garage-clearance-dubai`
-- **Why this slot:** Filler.
+- **Why this slot:** Filler. Set to `PUBLISHED` on 2026-11-25 as A44 after “Merge and live”. The storage-room guide keeps the room. The garage guide keeps the mixed inventory. The acceptance list stays on its own URL. A pet carrier and a set of suitcases stay on their own URLs. A bottle cooler cabinet stays on its own URL. A fridge is not this page. A water tank is not given a URL.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
 ### Day 28 — Thursday 2026-11-26
 
-#### Slot A — `NEW — supporting article` — Thin
+Slot A was brought forward and set to `PUBLISHED` on 2026-11-25 as G27, after the owner said “Merge and live”, because Day 27 Slot A was already published as A43 and Day 27 still needed a second eligible article after Slot B. Slot B on this day stays unwritten. The 30-day plan’s Day 28 pair (clothes and tyres) stayed `DO NOT WRITE`.
+
+#### Slot A — `PUBLISHED 2026-11-25` — Thin — G27
+
+Brought forward on 2026-11-25. See the slot. Set to `PUBLISHED` on 2026-11-25 after “Merge and live”.
 
 - **Primary keyword:** garden hose reel removal dubai
 - **Title:** A hose reel by a villa tap
@@ -876,7 +880,7 @@ Brought forward on 2026-11-24. See the slot. Set to `PUBLISHED` on 2026-11-24 af
 - **Suggested URL:** `/blog/garden-hose-reel-removal-dubai`
 - **Supports targets:** 1, 6
 - **Internal links:** `/services/waste-removal` — anchor: “not garden waste by itself”; `/blog/garden-furniture-disposal-dubai`; `/blog/villa-garden-waste-removal-dubai`; `/services/garden-waste-removal`
-- **Why this slot:** Filler beside the garden guides.
+- **Why this slot:** Filler beside the garden guides. Brought forward and set to `PUBLISHED` on 2026-11-25 as G27 after “Merge and live”. The garden-furniture guide keeps the patio set. The villa-garden guide keeps the zones. A project load stays on its own URL. A fire hose in a parking bay stays on its own URL. A water tank, a hot tub and an above-ground pool frame are not given a URL. A pergola is not given a URL.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
 #### Slot B — `NEW — supporting article` — Thin

@@ -477,6 +477,30 @@ export const fileImages = {
 /** Newest first. */
 export const filePosts = [
   {
+    slug: "garden-hose-reel-removal-dubai",
+    title: "A hose reel by a villa tap",
+    excerpt: "Drain the hose, leave the tap on the wall, and keep one hose reel as its own line.",
+    publishedAt: "2026-11-25T05:00:05.000Z",
+    cover: "garden-furniture-disposal-dubai-cover",
+    services: ["waste-removal"],
+    seoTitle: "Drain the hose and leave the tap on the wall",
+    seoDescription: "Drain the hose, leave the tap on the wall, and keep one hose reel as its own line.",
+    ogTitle: "The reel, not the garden",
+    ogDescription: "A hose reel by a villa tap."
+  },
+  {
+    slug: "cooler-box-removal-dubai",
+    title: "A cooler box from a store room",
+    excerpt: "Empty the cooler, shut the lid, and keep one cooler box as its own line.",
+    publishedAt: "2026-11-25T05:00:00.000Z",
+    cover: "article-storage-room-clearance-dubai-cover",
+    services: ["junk-removal"],
+    seoTitle: "Empty the cooler and shut the lid",
+    seoDescription: "Empty the cooler, shut the lid, and keep one cooler box as its own line.",
+    ogTitle: "The box, not the store",
+    ogDescription: "A cooler box from a store room."
+  },
+  {
     slug: "guitar-removal-dubai",
     title: "A guitar that is not a piano",
     excerpt: "Empty the case of small parts, leave the neck whole, and keep one guitar as its own line.",
