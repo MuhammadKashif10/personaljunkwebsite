@@ -2,7 +2,7 @@ Office desk removal goes smoothly when each desk is treated as a small asset pac
 
 A desk is rarely one object. It may include a pedestal, a modesty panel, a cable tray, a monitor arm, a keyboard shelf, a locked drawer and a set of keys that nobody can find. Each of those details affects the quote, the dismantling plan and the risk of removing something that should have stayed.
 
-A single standing desk in a home is not this workplace inventory. The [standing-desk note](/blog/home-standing-desk-removal-dubai) is that one desk. A magazine file holder from a home office is not this inventory either. The [magazine-file note](/blog/magazine-file-holder-dubai) is that one holder.
+A single standing desk in a home is not this workplace inventory. The [standing-desk note](/blog/home-standing-desk-removal-dubai) is that one desk. A magazine file holder from a home office is not this inventory either. The [magazine-file note](/blog/magazine-file-holder-dubai) is that one holder. A freestanding noticeboard beside a workstation is not this inventory. The [noticeboard note](/blog/freestanding-noticeboard-removal-dubai) is that one board, with the wall left alone.
 
 ## Treat the desk as an inventory line, not a loose item
 

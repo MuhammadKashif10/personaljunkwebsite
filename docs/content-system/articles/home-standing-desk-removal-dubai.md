@@ -26,7 +26,7 @@ Open any drawer, tray or modesty shelf. Paper, a passport, a spare key, medicine
 
 Look under the top for a keyboard tray, a cable basket or a power strip clipped to the frame. A power strip is its own small object. Unplug it from the wall if the plug is visible, and say whether it is leaving. Do not cut the strip’s lead to make the frame look tidy.
 
-An anti-fatigue mat, a chair and a waste bin are not the desk. Move them out of the photograph or name them as separate lines. A chair that is also leaving is a second piece of furniture. A magazine file on the top or beside a leg is not the desk. The [magazine-file note](/blog/magazine-file-holder-dubai) is that holder, emptied.
+An anti-fatigue mat, a chair and a waste bin are not the desk. Move them out of the photograph or name them as separate lines. A chair that is also leaving is a second piece of furniture. A magazine file on the top or beside a leg is not the desk. The [magazine-file note](/blog/magazine-file-holder-dubai) is that holder, emptied. A freestanding noticeboard beside the desk is not the desk. The [noticeboard note](/blog/freestanding-noticeboard-removal-dubai) is that one board, with the wall left alone.
 
 ## Leave the lifting mechanism alone
 

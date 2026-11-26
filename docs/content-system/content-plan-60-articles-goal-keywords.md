@@ -868,7 +868,7 @@ Brought forward on 2026-11-24. See the slot. Set to `PUBLISHED` on 2026-11-24 af
 
 ### Day 28 — Thursday 2026-11-26
 
-Slot A was brought forward and set to `PUBLISHED` on 2026-11-25 as G27, after the owner said “Merge and live”, because Day 27 Slot A was already published as A43 and Day 27 still needed a second eligible article after Slot B. Slot B on this day stays unwritten. The 30-day plan’s Day 28 pair (clothes and tyres) stayed `DO NOT WRITE`.
+Slot A was brought forward and set to `PUBLISHED` on 2026-11-25 as G27, after the owner said “Merge and live”, because Day 27 Slot A was already published as A43 and Day 27 still needed a second eligible article after Slot B. Slot B was written for review on 2026-11-26 as C44. It stays `REVIEW`, not `PUBLISHED`. The next calendar slots were not eligible: Day 29 Slot A is G22 and Day 29 Slot B is G23, both already published on 2026-10-30 and still marked do not draft; Day 30 Slot A is G24 and Day 30 Slot B is K21, both still blocked. No second article was written. The 30-day plan’s Day 28 pair (clothes and tyres) stayed `DO NOT WRITE`.
 
 #### Slot A — `PUBLISHED 2026-11-25` — Thin — G27
 
@@ -883,7 +883,7 @@ Brought forward on 2026-11-25. See the slot. Set to `PUBLISHED` on 2026-11-25 af
 - **Why this slot:** Filler beside the garden guides. Brought forward and set to `PUBLISHED` on 2026-11-25 as G27 after “Merge and live”. The garden-furniture guide keeps the patio set. The villa-garden guide keeps the zones. A project load stays on its own URL. A fire hose in a parking bay stays on its own URL. A water tank, a hot tub and an above-ground pool frame are not given a URL. A pergola is not given a URL.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
-#### Slot B — `NEW — supporting article` — Thin
+#### Slot B — `REVIEW 2026-11-26` — Thin — C44
 
 - **Primary keyword:** noticeboard removal dubai
 - **Title:** A freestanding noticeboard
@@ -891,7 +891,7 @@ Brought forward on 2026-11-25. See the slot. Set to `PUBLISHED` on 2026-11-25 af
 - **Suggested URL:** `/blog/freestanding-noticeboard-removal-dubai`
 - **Supports targets:** 5, 1
 - **Internal links:** `/services/furniture-removal` — anchor: “take the board with the furniture”; `/blog/office-furniture-removal-dubai`; `/blog/school-office-clearance-dubai`; `/services/office-clearance`
-- **Why this slot:** Filler. Skip if it is screwed to the wall.
+- **Why this slot:** Filler. Written for review on 2026-11-26 as C44. Status `REVIEW`, not `PUBLISHED`. Skip a board that is still screwed to the wall. The office-furniture guide keeps the floor. The school-office guide keeps the closure. A whole office stays on its own URL. A magazine file and a framed picture stay on their own URLs. A filing cabinet, a bookshelf, a partition and a mannequin are not given a URL.
 - **SERP note:** No dedicated Dubai page was opened for this object. Not measured.
 
 ### Day 29 — Friday 2026-11-27

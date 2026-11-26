@@ -20,6 +20,8 @@ A mannequin is not a holder. It is not given a URL here. If one is in the room, 
 
 A cardboard carton that once held magazines is not a holder. Cartons, film and foam stay on the [guide to sorting packing material](/blog/packing-material-disposal-dubai). Do not stand a carton on its end and call it a file because magazines were in it. Do not hide the holder inside a carton and call the result boxes.
 
+A freestanding noticeboard, with pins in a cork face, is not a holder. The [noticeboard note](/blog/freestanding-noticeboard-removal-dubai) is that one board. Do not unpin it and call the face a magazine file.
+
 A wall pocket, a rail or a file that is still screwed to the wall is a fitting. Write “fixed, staying” and do not unscrew the wall. This note starts when the holder already stands on a desk or on the floor, or when it lifts off by the movement it was built with. If it will not lift off, leave it and write “will not lift off”.
 
 If you are not sure, write the shape. “Open box, wider at the top, papers leaning back” is enough. A wrong name is worse than a plain description.

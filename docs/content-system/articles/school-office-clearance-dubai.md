@@ -41,7 +41,7 @@ Items lent by parent groups, suppliers or another campus need ownership confirma
 
 Paper on or inside a desk should be treated as a records decision, not as rubbish. The school should apply its own retention, confidentiality and destruction process. Move approved records to a controlled location before the clearance crew begins.
 
-Check filing cabinets, archive boxes, noticeboards, trays and locked pedestals. Empty-looking furniture can still contain folders or removable media. Keep keys with the authorised records contact and do not ask a removal crew to decide whether information is sensitive.
+Check filing cabinets, archive boxes, noticeboards, trays and locked pedestals. Empty-looking furniture can still contain folders or removable media. Keep keys with the authorised records contact and do not ask a removal crew to decide whether information is sensitive. One freestanding noticeboard the school has already released, pins off, is the [noticeboard note](/blog/freestanding-noticeboard-removal-dubai). A board still screwed to the wall stays here, and it is not unscrewed from this page.
 
 ### Protect data-bearing equipment
 
