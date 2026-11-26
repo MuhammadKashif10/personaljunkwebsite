@@ -455,7 +455,7 @@ The six original, unbranded editorial images below were generated for #22, #32 a
 | #A43 guitar-removal-dubai | cover, body | `COMPLETE` — existing furniture-by-doorway cover reused for both 2026-11-24 (published repository post). The image is a sofa, a chair, a cabinet and dismantled shelving beside a doorway. It does not show a guitar, a neck, a case, a string or a stand. |
 | #A44 cooler-box-removal-dubai | cover, body | `COMPLETE` — existing storage-room cover reused for both 2026-11-25 (published repository post). The image is shelves, boxes, a rolled rug and a worn table in a storage room. It does not show a cooler box, a lid, a drain plug, an ice pack or a handle. |
 | #G27 garden-hose-reel-removal-dubai | cover, body | `COMPLETE` — existing patio-furniture cover reused for both 2026-11-25 (published repository post). The image is weathered outdoor chairs and a table beside stacked cushions and empty pots. It does not show a hose reel, a hose, a tap, a bracket or a crank. |
-| #C44 freestanding-noticeboard-removal-dubai | cover, body | `COMPLETE` — existing office-floor cover reused for both 2026-11-26 (review repository post). The image is desks, task chairs and cabinets in an office, with a clear corridor. It does not show a noticeboard, a pin, a cork face, a wheeled stand or a hook. The article is `REVIEW`, not `PUBLISHED`. |
+| #C44 freestanding-noticeboard-removal-dubai | cover, body | `COMPLETE` — existing office-floor cover reused for both 2026-11-26 (published repository post). The image is desks, task chairs and cabinets in an office, with a clear corridor. It does not show a noticeboard, a pin, a cork face, a wheeled stand or a hook. |
 | #N-17 water-heater-removal-dubai | cover, OG, body | `COMPLETE` — existing media reused 2026-10-16 (Media 73, 77) · a water-heater image would make a better future cover |
 | #6 end-of-tenancy | body | `NEEDED` |
 | #11 junk-gone-today | body | `NEEDED` |
@@ -495,6 +495,7 @@ The six original, unbranded editorial images below were generated for #22, #32 a
 
 | Date | Change |
 |---|---|
+| 2026-11-26 | Set the C44 image row to a `PUBLISHED` repository post after “Merge and live”. No generation, download or upload. The same inspected image remains. |
 | 2026-11-26 | Reused `office-furniture-cover` for C44 as cover and body. No generation, download or upload. The image is a workplace floor of desks, task chairs and cabinets, not a noticeboard. The article is `REVIEW`, not `PUBLISHED`. |
 | 2026-11-25 | Set the A44 and G27 image rows to `PUBLISHED` repository posts after “Merge and live”. No generation, download or upload. The same inspected images remain. |
 | 2026-11-25 | Reused `article-storage-room-clearance-dubai-cover` for A44 and `garden-furniture-disposal-dubai-cover` for G27, each as cover and body. No generation, download or upload. The box image is shelves, boxes, a rolled rug and a worn table, not a cooler box. The reel image is outdoor chairs, a table, cushions and empty pots, not a hose reel. Both articles are `REVIEW`, not `PUBLISHED`. |
