@@ -477,6 +477,18 @@ export const fileImages = {
 /** Newest first. */
 export const filePosts = [
   {
+    slug: "freestanding-noticeboard-removal-dubai",
+    title: "A freestanding noticeboard",
+    excerpt: "Take the pins off, leave the wall alone, and keep one freestanding noticeboard as its own line.",
+    publishedAt: "2026-11-26T05:00:00.000Z",
+    cover: "office-furniture-cover",
+    services: ["furniture-removal"],
+    seoTitle: "Take the pins off and leave the wall alone",
+    seoDescription: "Take the pins off, leave the wall alone, and keep one freestanding noticeboard as its own line.",
+    ogTitle: "The board, not the wall",
+    ogDescription: "A freestanding noticeboard."
+  },
+  {
     slug: "garden-hose-reel-removal-dubai",
     title: "A hose reel by a villa tap",
     excerpt: "Drain the hose, leave the tap on the wall, and keep one hose reel as its own line.",

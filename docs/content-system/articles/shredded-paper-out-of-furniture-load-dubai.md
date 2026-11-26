@@ -1,6 +1,6 @@
 Shredded paper leaves in its own sacks. It does not ride inside a pedestal, a drawer, a filing cabinet or a bag of furniture. A desk that still holds paper is not an empty desk, and a sack of shreds is not a workstation.
 
-A booking that says “the office” will be read as desks, chairs and a fit-out. If the problem is paper that has already been shredded, and that paper would otherwise leave inside the furniture, the note has to split the two before anyone plans a crew. A magazine file that still holds magazines, not shreds, is the [magazine-file note](/blog/magazine-file-holder-dubai). This page stays the sacks.
+A booking that says “the office” will be read as desks, chairs and a fit-out. If the problem is paper that has already been shredded, and that paper would otherwise leave inside the furniture, the note has to split the two before anyone plans a crew. A magazine file that still holds magazines, not shreds, is the [magazine-file note](/blog/magazine-file-holder-dubai). A freestanding noticeboard with pins and paper still on the face is the [noticeboard note](/blog/freestanding-noticeboard-removal-dubai). This page stays the sacks.
 
 ## Two lines, not one load
 

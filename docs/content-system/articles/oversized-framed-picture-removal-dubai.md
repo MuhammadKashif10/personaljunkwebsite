@@ -4,7 +4,7 @@ A booking that says “some art” will be read as a small parcel. If the frame 
 
 ## Decide whether it is a picture
 
-Look at the object before you take it down. A framed print, a canvas on a stretcher and a glazed poster are this page when the thing on the wall is one picture. A run of cabinets under a television is not. That unit, its fixings and its shelves, is the [media-wall note](/blog/media-wall-unit-removal-dubai). Stay there when the wood is a console or a wall-fixed unit. Come here when the only object is the frame.
+Look at the object before you take it down. A framed print, a canvas on a stretcher and a glazed poster are this page when the thing on the wall is one picture. A freestanding noticeboard, with a cork or fabric face you can pin, is the [noticeboard note](/blog/freestanding-noticeboard-removal-dubai). Do not take the glass out of a frame and call it that board. A run of cabinets under a television is not. That unit, its fixings and its shelves, is the [media-wall note](/blog/media-wall-unit-removal-dubai). Stay there when the wood is a console or a wall-fixed unit. Come here when the only object is the frame.
 
 A glass display cabinet, with shelves and doors, is a different piece again. Emptying it and counting its panels is the [glass-cabinet note](/blog/glass-display-cabinet-removal-dubai). Do not use this page to empty a cabinet, and do not call a cabinet a picture because the doors are glazed.
 
