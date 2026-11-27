@@ -1,4 +1,4 @@
-A duvet that will not go down the chute is a bulky soft load, and so is the pillow stuffed in beside it. Open the bags, count what is actually in them, and keep that bedding out of the chute and out of a mattress wrap. The bins page already says what a chute is for. This page is only the bedding.
+A bean bag that will not compact is not bedding. The [bean-bag note](/blog/bean-bag-removal-dubai) is that bag. A duvet that will not go down the chute is a bulky soft load, and so is the pillow stuffed in beside it. Open the bags, count what is actually in them, and keep that bedding out of the chute and out of a mattress wrap. The bins page already says what a chute is for. This page is only the bedding.
 
 A booking that says “some bags” will be read as ordinary rubbish. If the bags are full of duvets, the note has to say bedding before anyone plans the carry or the space on the vehicle.
 

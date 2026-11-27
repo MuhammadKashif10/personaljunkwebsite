@@ -1,6 +1,6 @@
 Retail fit-out waste removal should begin only after the project team has separated retained assets, reusable stock, loose clearance items and released fit-out material. Name who can approve each group, confirm that technical disconnections are complete, stage the load without blocking the premises, and book removal against the building's access window.
 
-“Fit-out waste” is not one material. A retail unit may contain shelving, counters, display plinths, signage, packaging, timber offcuts, metal frames, cables, lighting, glass, floor coverings and general rubbish. Some are loose items, some are landlord property, and some remain part of the installed shop until a contractor safely releases them.
+A carton stack in the back room, while the shop is still trading, is not fit-out waste. The [shop-carton note](/blog/shop-back-room-cartons-dubai) is that stack. “Fit-out waste” is not one material. A retail unit may contain shelving, counters, display plinths, signage, packaging, timber offcuts, metal frames, cables, lighting, glass, floor coverings and general rubbish. Some are loose items, some are landlord property, and some remain part of the installed shop until a contractor safely releases them.
 
 ## Establish authority before the strip-out creates a pile
 

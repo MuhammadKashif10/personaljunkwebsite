@@ -67,7 +67,7 @@ Shoes, bags, delivery boxes and things waiting to go out collect here. Keep only
 
 ### Living room
 
-Look at furniture first. Count seats against the people who actually use them. Check side tables, shelving and media units that hold little. Large items such as a second sofa or an oversized coffee table are the biggest gains in floor space. Then deal with what is on surfaces and shelves.
+Look at furniture first. Count seats against the people who actually use them. Check side tables, shelving and media units that hold little. Large items such as a second sofa or an oversized coffee table are the biggest gains in floor space. A bean bag that will not compact is not that sofa. The [bean-bag note](/blog/bean-bag-removal-dubai) is that one bag. Then deal with what is on surfaces and shelves.
 
 ### Bedroom and wardrobes
 

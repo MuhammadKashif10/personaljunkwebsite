@@ -45,7 +45,7 @@ export default function Hero() {
           </p>
 
           <p style={{ margin: '30px 0 0', maxWidth: '46ch', fontSize: 'clamp(16px, 1.4vw, 19px)', lineHeight: 1.6, color: c.onDark, textWrap: 'pretty' }}>
-            Dubai junk removal for furniture, appliances, garden waste or a whole villa. This junk removal service collects from the room: send one photo on WhatsApp, see <Link href="/services/junk-removal" style={{ color: '#fff', borderBottom: '1px solid ' + c.bronze }}>how a pickup is booked</Link>, and a uniformed crew carries it out. Junk collection covers one piece or a full load. You do not lift a thing.
+            Dubai junk removal for furniture, appliances, garden waste or a whole villa. This junk removal service collects from the room: send one photo on WhatsApp, see <Link href="/services/junk-removal" style={{ color: '#fff', borderBottom: '1px solid ' + c.bronze }}>how a pickup is booked</Link>, and a uniformed crew carries it out. Junk collection covers one piece or a full load. A bean bag that will not compact is one of those pieces. The <Link href="/blog/bean-bag-removal-dubai" style={{ color: '#fff', borderBottom: '1px solid ' + c.bronze }}>bean-bag note</Link> is that bag. You do not lift a thing.
           </p>
 
           <div style={{ margin: '36px 0 0', display: 'flex', gap: 12, flexWrap: 'wrap' }}>
