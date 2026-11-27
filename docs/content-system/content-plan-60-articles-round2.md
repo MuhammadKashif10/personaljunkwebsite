@@ -181,9 +181,9 @@ Each slot is marked `PROPOSED — pending owner approval`. Strength is a writing
 
 ### Day 1 — Friday 27 November 2026
 
-#### Slot A — `REVIEW` — Strong — A45
+#### Slot A — `PUBLISHED 2026-11-27` — Strong — A45
 
-Written 2026-11-27 as a repository review draft. Status `REVIEW`, not `PUBLISHED`. No Published date and no §5.2 claim. The published count stays 155. Needs the owner’s “Merge and live” before it is published.
+Set to `PUBLISHED` on 2026-11-27 after the owner said “Merge and live”. §5.2 claim applied. The published count is 157. The pull request is not merged in this change.
 
 - **ID:** A45
 - **Primary keyword:** bean bag removal dubai
@@ -196,9 +196,9 @@ Written 2026-11-27 as a repository review draft. Status `REVIEW`, not `PUBLISHED
 - **Internal links:** `/` — anchor: “book a junk collection”; `/blog/decluttering-small-dubai-apartment`
 - **Why this slot:** A soft, bulky piece that does not compress for the chute or a car boot. It is not a sofa, armchair or mattress, and it is not a full-room clear-out.
 
-#### Slot B — `REVIEW` — Strong — F28
+#### Slot B — `PUBLISHED 2026-11-27` — Strong — F28
 
-Written 2026-11-27 as a repository review draft. Status `REVIEW`, not `PUBLISHED`. No Published date and no §5.2 claim. The published count stays 155. Needs the owner’s “Merge and live” before it is published.
+Set to `PUBLISHED` on 2026-11-27 after the owner said “Merge and live”. §5.2 claim applied. The published count is 157. The pull request is not merged in this change.
 
 - **ID:** F28
 - **Primary keyword:** shop back room carton stack dubai
