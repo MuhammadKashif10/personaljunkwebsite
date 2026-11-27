@@ -1,4 +1,4 @@
-A leak has soaked the cardboard. Keep that board off the dry stacks you still hope a recycling route will take, name the water, and book the soaked pile as junk once you know it is waste. A route that asks for dry board can refuse a wet bundle. Drying it on the balcony does not turn it back into the description you would have sent yesterday.
+A dry carton stack in a shop back room is not this pile. The [shop-carton note](/blog/shop-back-room-cartons-dubai) is that stack. A leak has soaked the cardboard. Keep that board off the dry stacks you still hope a recycling route will take, name the water, and book the soaked pile as junk once you know it is waste. A route that asks for dry board can refuse a wet bundle. Drying it on the balcony does not turn it back into the description you would have sent yesterday.
 
 A photo of one stained corner does not show how much of the stack collapsed, or what else the water reached.
 

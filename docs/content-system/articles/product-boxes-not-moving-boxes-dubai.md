@@ -12,7 +12,7 @@ Deliveries into a flat you still live in — a sofa, a washing machine, a run of
 
 A shop being emptied is a wider job. The [shop-clearance guide](/blog/shop-clearance-dubai) covers stock, fixtures, access and who may release them. This page is only the empty product cartons once that stock decision is already made. A warehouse being emptied is wider again. The [warehouse-clearance guide](/blog/warehouse-clearance-dubai) is the unit: zones, retained stock, and what may leave. This page is the packaging pile, not the aisle.
 
-Write the address type in the same note: a spare room used for orders, a shop back room, or a warehouse unit. The carton count does not say which of those it is.
+Write the address type in the same note: a spare room used for orders, a shop back room, or a warehouse unit. The carton count does not say which of those it is. When the shop is still trading and the pile is the weekly stack in the back room, the volume is the [shop-carton note](/blog/shop-back-room-cartons-dubai). This page stays the question of what the carton held.
 
 ## Keep goods, orders and returns out of the pile
 

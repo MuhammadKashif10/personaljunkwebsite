@@ -181,7 +181,9 @@ Each slot is marked `PROPOSED — pending owner approval`. Strength is a writing
 
 ### Day 1 — Friday 27 November 2026
 
-#### Slot A — `PROPOSED — pending owner approval` — Strong — A45
+#### Slot A — `REVIEW` — Strong — A45
+
+Written 2026-11-27 as a repository review draft. Status `REVIEW`, not `PUBLISHED`. No Published date and no §5.2 claim. The published count stays 155. Needs the owner’s “Merge and live” before it is published.
 
 - **ID:** A45
 - **Primary keyword:** bean bag removal dubai
@@ -194,7 +196,9 @@ Each slot is marked `PROPOSED — pending owner approval`. Strength is a writing
 - **Internal links:** `/` — anchor: “book a junk collection”; `/blog/decluttering-small-dubai-apartment`
 - **Why this slot:** A soft, bulky piece that does not compress for the chute or a car boot. It is not a sofa, armchair or mattress, and it is not a full-room clear-out.
 
-#### Slot B — `PROPOSED — pending owner approval` — Strong — F28
+#### Slot B — `REVIEW` — Strong — F28
+
+Written 2026-11-27 as a repository review draft. Status `REVIEW`, not `PUBLISHED`. No Published date and no §5.2 claim. The published count stays 155. Needs the owner’s “Merge and live” before it is published.
 
 - **ID:** F28
 - **Primary keyword:** shop back room carton stack dubai

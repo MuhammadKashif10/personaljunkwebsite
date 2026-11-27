@@ -477,6 +477,30 @@ export const fileImages = {
 /** Newest first. */
 export const filePosts = [
   {
+    slug: "shop-back-room-cartons-dubai",
+    title: "A carton stack in a shop back room",
+    excerpt: "Count the dry cartons, keep stock out of the stack, and book the back-room pile with the rest of the load.",
+    publishedAt: "2026-11-27T05:00:05.000Z",
+    cover: "warehouse-clearance-cover",
+    services: ["junk-removal"],
+    seoTitle: "Count the dry cartons and keep the stock out",
+    seoDescription: "Count the dry cartons, keep stock out of the stack, and book the back-room pile with the rest of the load.",
+    ogTitle: "The stack, not the shop",
+    ogDescription: "A carton stack in a shop back room."
+  },
+  {
+    slug: "bean-bag-removal-dubai",
+    title: "A bean bag that will not compact",
+    excerpt: "Empty the cover, say if it will not squash, and keep one bean bag as its own line.",
+    publishedAt: "2026-11-27T05:00:00.000Z",
+    cover: "sofa-doorway-cover",
+    services: ["junk-removal"],
+    seoTitle: "Empty the cover and say if it will not squash",
+    seoDescription: "Empty the cover, say if it will not squash, and keep one bean bag as its own line.",
+    ogTitle: "The bag, not the sofa",
+    ogDescription: "A bean bag that will not compact."
+  },
+  {
     slug: "freestanding-noticeboard-removal-dubai",
     title: "A freestanding noticeboard",
     excerpt: "Take the pins off, leave the wall alone, and keep one freestanding noticeboard as its own line.",

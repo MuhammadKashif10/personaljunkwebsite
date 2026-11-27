@@ -16,7 +16,7 @@ Packaging from a move is rarely one material. A single delivery can bring carton
 
 Cardboard cartons and paper wrapping can be grouped together if they are clean and dry. Dubai Municipality's [Waste Segregation Guide](https://dmpmedia.dm.gov.ae/uploads/2024/12/Waste-Segregation-Guide.pdf) sets out a green container for recyclable dry mixed materials, asks that cardboard be flattened and that food contamination be removed from boxes, and excludes cardboard that is contaminated with food or coated with plastic. Where a building uses bags for recyclables, the guide calls for clear bags so the contents can be seen.
 
-That gives a practical test for each carton. A dry, empty, flattened box is the easy case. A box that held groceries and is now stained, one that sat in a puddle on the balcony, or a heavily laminated gift box belongs with general waste or the collection pile, not in the recyclables container. The [guide to what the bins won't take](/blog/what-dubai-bins-wont-take) covers the full list of items that look recyclable but are excluded from that stream.
+That gives a practical test for each carton. A dry, empty, flattened box is the easy case. A box that held groceries and is now stained, one that sat in a puddle on the balcony, or a heavily laminated gift box belongs with general waste or the collection pile, not in the recyclables container. The [guide to what the bins won't take](/blog/what-dubai-bins-wont-take) covers the full list of items that look recyclable but are excluded from that stream. A carton stack in the back room of a shop that is still trading is not this move. The [shop-carton note](/blog/shop-back-room-cartons-dubai) is that stack. The test for dry board stays here.
 
 ### Plastic film, bubble wrap and foam
 
