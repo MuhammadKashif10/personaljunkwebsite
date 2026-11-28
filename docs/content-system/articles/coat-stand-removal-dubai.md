@@ -1,6 +1,6 @@
 The item is one coat stand, standing in the entry, and it is in the way of the door it has to leave through. Empty it, name its parts, and measure it against that door before you book. A coat stand looks like the smallest thing in the flat. In an entry it is often the tallest, and the hooks at the top are the part that catches.
 
-This note is that one stand. A whole flat of furniture is the [apartment furniture guide](/blog/apartment-furniture-removal-dubai). One large piece with its own route problem, such as a wardrobe or a sofa, is the [bulky-item guide](/blog/bulky-item-pickup-dubai). A floor lamp that is too tall for the doorway is the [floor-lamp note](/blog/floor-lamp-taller-than-doorway-dubai). Come back here when the only object in the question is a freestanding coat stand by the front door.
+This note is that one stand. A whole flat of furniture is the [apartment furniture guide](/blog/apartment-furniture-removal-dubai). One large piece with its own route problem, such as a wardrobe or a sofa, is the [bulky-item guide](/blog/bulky-item-pickup-dubai). A floor lamp that is too tall for the doorway is the [floor-lamp note](/blog/floor-lamp-taller-than-doorway-dubai). Come back here when the only object in the question is a freestanding coat stand by the front door. A narrow table against the hall wall, with a top for keys, is the [console-table note](/blog/console-table-removal-dubai).
 
 ## Take everything off it first
 

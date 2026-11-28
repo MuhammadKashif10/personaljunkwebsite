@@ -12,7 +12,7 @@ A built-in cupboard that is part of the flat is not this cabinet. If the door is
 
 A wardrobe is a wardrobe, even when it stands in the entry and holds shoes on the bottom. The [wardrobe guide](/blog/wardrobe-removal-dubai) keeps it. A chest of drawers is not this page either. It is not given a URL here. Name it as a chest if that is what it is, and keep it off this note.
 
-A console table with a bowl of keys is not a shoe cabinet. A mirror on a hook is not a shoe cabinet. A bench with no storage, that you sit on and that holds nothing inside, is a bench. Name it as its own line if it is leaving. Do not group the hall and call the group one cabinet.
+A console table with a bowl of keys is not a shoe cabinet. The [console-table note](/blog/console-table-removal-dubai) is that table. A mirror on a hook is not a shoe cabinet. A bench with no storage, that you sit on and that holds nothing inside, is a bench. Name it as its own line if it is leaving. Do not group the hall and call the group one cabinet.
 
 If you are not sure, photograph the front with the doors open and write “not sure it is a shoe cabinet”. That is a better line than a wrong name.
 
