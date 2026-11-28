@@ -213,9 +213,9 @@ Set to `PUBLISHED` on 2026-11-27 after the owner said “Merge and live”. §5.
 
 ### Day 2 — Saturday 28 November 2026
 
-#### Slot A — `REVIEW` — Strong — C45
+#### Slot A — `PUBLISHED 2026-11-28` — Strong — C45
 
-Written for review on 2026-11-28. Not `PUBLISHED`. No Published date and no §5.2 claim. The published count stays 157. Needs the owner’s “Merge and live” before this row becomes `PUBLISHED`.
+Set to `PUBLISHED` on 2026-11-28 after the owner said “Merge and live”. §5.2 claim applied. The published count is 159. The pull request is not merged in this change.
 
 - **ID:** C45
 - **Primary keyword:** console table removal dubai
@@ -228,9 +228,9 @@ Written for review on 2026-11-28. Not `PUBLISHED`. No Published date and no §5.
 - **Internal links:** `/services/furniture-removal` — anchor: “furniture removal for a single piece”; `/blog/coat-stand-removal-dubai`; `/blog/shoe-cabinet-removal-dubai`
 - **Why this slot:** A narrow hall table, not a coffee table (which stays DO NOT WRITE), not a sideboard and not a media wall unit. The coat-stand and shoe-cabinet guides keep those pieces.
 
-#### Slot B — `REVIEW` — Strong — M32
+#### Slot B — `PUBLISHED 2026-11-28` — Strong — M32
 
-Written for review on 2026-11-28. Not `PUBLISHED`. No Published date and no §5.2 claim. The published count stays 157. Needs the owner’s “Merge and live” before this row becomes `PUBLISHED`.
+Set to `PUBLISHED` on 2026-11-28 after the owner said “Merge and live”. §5.2 claim applied. The published count is 159. The pull request is not merged in this change.
 
 - **ID:** M32
 - **Primary keyword:** plastic playhouse removal dubai
