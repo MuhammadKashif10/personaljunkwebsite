@@ -458,6 +458,8 @@ The six original, unbranded editorial images below were generated for #22, #32 a
 | #C44 freestanding-noticeboard-removal-dubai | cover, body | `COMPLETE` — existing office-floor cover reused for both 2026-11-26 (published repository post). The image is desks, task chairs and cabinets in an office, with a clear corridor. It does not show a noticeboard, a pin, a cork face, a wheeled stand or a hook. |
 | #A45 bean-bag-removal-dubai | cover, body | `COMPLETE` — existing sofa-doorway cover reused for both 2026-11-27 (published repository post). The image is a large beige corner sofa across a narrow apartment doorway. It does not show a bean bag, a zip, beads, a liner or a split seam. |
 | #F28 shop-back-room-cartons-dubai | cover, body | `COMPLETE` — existing warehouse cover reused for both 2026-11-27 (published repository post). The image is an organised warehouse with retained stock, a clearance zone and a route to a loading shutter. It does not show a shop back room, a trading counter, a carton stack or a service corridor. |
+| #C45 console-table-removal-dubai | cover, body | `COMPLETE` — existing furniture-by-doorway cover reused for both 2026-11-28 (published repository post). The image is a sofa, a chair, a cabinet and dismantled shelving beside a doorway. It does not show a hallway console table, a drawer, a hall wall or a mirror. |
+| #M32 plastic-playhouse-removal-dubai | cover, body | `COMPLETE` — existing patio-furniture cover reused for both 2026-11-28 (published repository post). The image is weathered outdoor chairs and a table beside stacked cushions and empty pots. It does not show a plastic playhouse, a door flap, a peg or a gate. |
 | #N-17 water-heater-removal-dubai | cover, OG, body | `COMPLETE` — existing media reused 2026-10-16 (Media 73, 77) · a water-heater image would make a better future cover |
 | #6 end-of-tenancy | body | `NEEDED` |
 | #11 junk-gone-today | body | `NEEDED` |
@@ -497,6 +499,8 @@ The six original, unbranded editorial images below were generated for #22, #32 a
 
 | Date | Change |
 |---|---|
+| 2026-11-28 | Set the C45 and M32 image rows to `PUBLISHED` repository posts after “Merge and live”. No generation, download or upload. The same inspected images remain. |
+| 2026-11-28 | Reused `old-furniture-disposal-cover` for C45 and `garden-furniture-disposal-dubai-cover` for M32, each as cover and body. No generation, download or upload. The table image is a sofa, a chair, a cabinet and shelving by a doorway, not a hallway console table. The house image is weathered patio furniture, not a plastic playhouse. Both articles are `REVIEW`, not `PUBLISHED`. |
 | 2026-11-27 | Set the A45 and F28 image rows to `PUBLISHED` repository posts after “Merge and live”. No generation, download or upload. The same inspected images remain. |
 | 2026-11-27 | Reused `sofa-doorway-cover` for A45 and `warehouse-clearance-cover` for F28, each as cover and body. No generation, download or upload. The bag image is a corner sofa across a doorway, not a bean bag. The stack image is a warehouse, not a shop back room. Both articles are `REVIEW`, not `PUBLISHED`. |
 | 2026-11-26 | Set the C44 image row to a `PUBLISHED` repository post after “Merge and live”. No generation, download or upload. The same inspected image remains. |

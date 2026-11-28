@@ -21,7 +21,7 @@ Add the approximate overall diameter or length and width. If a maker's label or 
 
 ### Keep a play set on its own inventory line
 
-An outdoor playhouse, slide, swing frame or combined play set is not simply an accessory to a trampoline. Count it separately and photograph every side. State whether it is modular plastic, timber, metal or a mix. Show platforms, ladders, roofs, slides, swing beams and any loose panels.
+An outdoor playhouse, slide, swing frame or combined play set is not simply an accessory to a trampoline. A plastic playhouse on its own is the [playhouse note](/blog/plastic-playhouse-removal-dubai). This guide stays the trampoline. Count any other play set separately and photograph every side. State whether it is modular plastic, timber, metal or a mix. Show platforms, ladders, roofs, slides, swing beams and any loose panels.
 
 If several pieces were bought together, still list the pieces that have to travel. “One play area” can hide a trampoline, plastic house, sand table and swing frame. Each has different connections and ground contact. A complete inventory lets the removal request cover the whole footprint instead of discovering a second structure after the first one is apart.
 

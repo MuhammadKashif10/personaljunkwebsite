@@ -1,4 +1,4 @@
-A villa garden clearance is easiest to quote after the gardening work has finished and every material group is visible. Walk the whole plot, separate green cuttings from soil, pots, outdoor furniture and chemicals, count the finished bags and bundles, and photograph the route from each garden zone to the collection vehicle.
+A villa garden clearance is easiest to quote after the gardening work has finished and every material group is visible. One plastic playhouse, emptied, with the path to the gate named, is the [playhouse note](/blog/plastic-playhouse-removal-dubai). This page stays the zones. Walk the whole plot, separate green cuttings from soil, pots, outdoor furniture and chemicals, count the finished bags and bundles, and photograph the route from each garden zone to the collection vehicle.
 
 The important unit is not the size of the villa or garden. It is the load that will actually leave. A small planted courtyard can contain dense pots and soil, while a larger lawn may produce only a few bags of dry clippings. Describe the finished material and the carrying route instead of asking a collector to estimate from the property type.
 

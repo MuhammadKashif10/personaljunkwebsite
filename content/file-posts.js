@@ -477,6 +477,30 @@ export const fileImages = {
 /** Newest first. */
 export const filePosts = [
   {
+    slug: "plastic-playhouse-removal-dubai",
+    title: "A plastic playhouse in a villa garden",
+    excerpt: "Empty the plastic house, name how it meets the ground, and measure the path from where it stands to the gate.",
+    publishedAt: "2026-11-28T05:00:05.000Z",
+    cover: "garden-furniture-disposal-dubai-cover",
+    services: ["junk-removal"],
+    seoTitle: "Empty the playhouse and measure the path to the gate",
+    seoDescription: "Empty the plastic house, name how it meets the ground, and measure the path from where it stands to the gate.",
+    ogTitle: "The house, not the garden",
+    ogDescription: "A plastic playhouse in a villa garden."
+  },
+  {
+    slug: "console-table-removal-dubai",
+    title: "A hallway console table",
+    excerpt: "Empty the top and any drawer, measure the table where it stands, and keep one narrow hall table as its own line.",
+    publishedAt: "2026-11-28T05:00:00.000Z",
+    cover: "old-furniture-disposal-cover",
+    services: ["furniture-removal"],
+    seoTitle: "Empty the hall table and measure it where it stands",
+    seoDescription: "Empty the top and any drawer, measure the table where it stands, and keep one narrow hall table as its own line.",
+    ogTitle: "The table, not the hall",
+    ogDescription: "A hallway console table."
+  },
+  {
     slug: "shop-back-room-cartons-dubai",
     title: "A carton stack in a shop back room",
     excerpt: "Count the dry cartons, keep stock out of the stack, and book the back-room pile with the rest of the load.",

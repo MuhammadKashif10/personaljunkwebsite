@@ -70,7 +70,7 @@ Clear the driveway or agreed approach. Move resident vehicles, unlock approved g
 
 Check that a collection vehicle can approach without blocking neighbours or emergency access. Do not use a verge or shared road as an informal storage area.
 
-For rear gardens and external stores, move items only when the path is safe and the staging instruction is known. Loose green waste or specialist materials may require a separate route.
+For rear gardens and external stores, move items only when the path is safe and the staging instruction is known. Loose green waste or specialist materials may require a separate route. One plastic playhouse that stands at the back of a lawn, too far for you to carry it to the gate on your own, is the [playhouse note](/blog/plastic-playhouse-removal-dubai). Eligibility and staging stay on this page.
 
 ## Prepare furniture
 

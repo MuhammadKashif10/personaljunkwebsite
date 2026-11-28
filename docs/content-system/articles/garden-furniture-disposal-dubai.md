@@ -1,4 +1,4 @@
-Old garden furniture can leave in the same planned visit as other accepted outdoor items, but it should be described separately from branches and trimmings. Photograph each table, chair, lounger and parasol, note whether pieces fold or dismantle, and say if cushions are wet or frames are broken. The [garden-waste removal service](/services/garden-waste-removal) covers outdoor clear-outs; the item list determines the actual quote and route.
+Old garden furniture can leave in the same planned visit as other accepted outdoor items, but it should be described separately from branches and trimmings. A plastic playhouse on the lawn is not a chair from the set. The [playhouse note](/blog/plastic-playhouse-removal-dubai) is that shell. Photograph each table, chair, lounger and parasol, note whether pieces fold or dismantle, and say if cushions are wet or frames are broken. The [garden-waste removal service](/services/garden-waste-removal) covers outdoor clear-outs; the item list determines the actual quote and route.
 
 ## Decide whether the set is ready to pass on
 
